@@ -1,0 +1,7 @@
+Mission_ID,Mission_Name,Launch_Date,Launch_Site,Spacecraft_Name,Mission_Type,Destination,Crew_Size,Mission_Status,Duration_Days,Budget_MillionUSD,Agency
+1,Apollo 11,1969-07-16,Kennedy Space Center,Saturn V,Manned,Moon,3,Successful,8,355,NASA
+2,Mars Rover Perseverance,2020-07-30,Cape Canaveral,Atlas V,Rover,Mars,0,Ongoing,350,2700,NASA
+3,Chandrayaan-2,2019-07-22,Satish Dhawan Space Centre,GSLV Mk III,Orbital,Moon,0,Successful,365,145,ISRO
+4,Juno,2011-08-05,Cape Canaveral,Atlas V,Orbital,Jupiter,0,Ongoing,4700,1100,NASA
+5,ISS Expedition 64,2020-10-14,Baikonur Cosmodrome,Soyuz MS-17,Manned,ISS,3,Ongoing,180,400,Roscosmos
+6,Artemis I,2022-11-16,Kennedy Space Center,SLS,Orbital,Moon,0,Successful,25,9300,NASA
