@@ -1,0 +1,501 @@
+flight_number,departure_city,arrival_city,flight_date,flight_time,aircraft_type,status
+QR3248,Paris,Berlin,2024-05-30,03:17:00,Boeing 777,Delayed
+QR1453,Paris,London,2024-07-08,10:54:10,Airbus A380,Canceled
+QR9928,Sydney,Dubai,2024-04-11,00:00:00,Boeing 777,On-Time
+QR6914,Paris,Tokyo,2024-01-12,07:30:27,Airbus A350,Delayed
+QR2872,Doha,London,2024-06-22,00:32:14,Airbus A380,Canceled
+QR9816,Sydney,Paris,2024-09-10,02:03:16,Boeing 787,Canceled
+QR935,London,New York,2023-11-15,00:16:22,Airbus A350,On-Time
+QR8830,Tokyo,Berlin,2024-09-25,14:04:36,Boeing 777,Canceled
+QR5027,London,Paris,2023-10-27,13:09:19,Boeing 777,Canceled
+QR6655,Sydney,Doha,2023-12-20,20:02:46,Airbus A380,On-Time
+QR1285,Paris,Tokyo,2024-02-16,22:04:51,Boeing 777,Canceled
+QR8063,Paris,Doha,2024-10-15,09:32:37,Boeing 787,Canceled
+QR7322,New York,Tokyo,2023-11-21,07:37:01,Boeing 777,Canceled
+QR1647,Paris,London,2023-12-26,06:41:15,Boeing 777,Delayed
+QR2140,Doha,Berlin,2024-10-10,21:02:02,Airbus A350,On-Time
+QR8642,Sydney,Berlin,2024-05-30,06:42:09,Airbus A350,On-Time
+QR2582,Sydney,Paris,2024-06-27,03:31:58,Airbus A380,Canceled
+QR5277,Dubai,London,2024-07-20,03:42:19,Airbus A350,On-Time
+QR8974,Dubai,Berlin,2024-01-14,00:11:17,Boeing 777,Delayed
+QR1114,Paris,Berlin,2024-01-30,14:37:44,Boeing 777,Delayed
+QR6987,Doha,Dubai,2024-09-16,04:31:57,Boeing 787,Canceled
+QR498,Doha,London,2024-07-05,20:03:07,Boeing 777,Delayed
+QR3778,Berlin,Doha,2024-09-09,16:55:57,Boeing 777,On-Time
+QR1012,Paris,Sydney,2024-05-02,11:43:36,Boeing 787,Canceled
+QR4403,Dubai,London,2024-04-25,19:27:37,Boeing 787,On-Time
+QR8422,London,New York,2024-04-27,04:49:07,Airbus A350,Delayed
+QR5366,New York,Sydney,2024-10-08,14:46:21,Airbus A350,Canceled
+QR9070,Doha,Sydney,2024-03-04,15:05:42,Boeing 787,Canceled
+QR579,London,Berlin,2024-08-09,22:59:28,Boeing 787,Canceled
+QR2516,Paris,Dubai,2024-06-26,06:37:29,Airbus A350,On-Time
+QR1965,Paris,New York,2024-04-28,02:03:00,Airbus A380,Delayed
+QR7369,Sydney,Paris,2024-06-28,01:34:30,Airbus A380,On-Time
+QR1452,Tokyo,Berlin,2024-05-16,04:57:16,Boeing 787,On-Time
+QR2237,New York,Dubai,2024-09-03,06:36:30,Airbus A350,On-Time
+QR5703,Paris,Doha,2024-06-28,12:23:49,Airbus A380,Delayed
+QR9772,New York,Berlin,2024-02-29,02:22:01,Boeing 787,On-Time
+QR4318,Berlin,Doha,2024-05-19,00:12:56,Airbus A380,Canceled
+QR422,Paris,Sydney,2024-07-24,15:12:23,Airbus A380,On-Time
+QR4011,Berlin,Doha,2024-02-26,11:39:58,Boeing 777,Delayed
+QR4879,Paris,Sydney,2024-05-31,09:45:30,Boeing 777,Canceled
+QR5932,New York,Dubai,2023-11-20,04:57:38,Boeing 787,Delayed
+QR4195,Paris,London,2024-01-11,00:46:50,Boeing 787,On-Time
+QR5664,Tokyo,Sydney,2024-08-19,13:08:31,Airbus A380,Canceled
+QR7380,Berlin,New York,2024-03-22,13:08:12,Airbus A350,On-Time
+QR4091,Tokyo,Sydney,2024-08-07,19:33:58,Airbus A350,On-Time
+QR8202,Doha,Sydney,2024-08-13,17:48:41,Boeing 787,On-Time
+QR5437,Doha,Tokyo,2024-05-21,15:09:43,Boeing 787,Canceled
+QR7041,Berlin,Paris,2024-02-02,15:19:14,Airbus A380,On-Time
+QR4245,Doha,New York,2024-02-01,13:18:16,Boeing 787,On-Time
+QR4993,Paris,New York,2023-11-25,11:20:24,Airbus A380,On-Time
+QR1886,Dubai,Paris,2023-11-12,04:16:39,Airbus A350,Delayed
+QR4819,Dubai,New York,2024-01-16,20:23:38,Boeing 777,On-Time
+QR1511,London,Paris,2024-01-03,03:33:17,Boeing 777,On-Time
+QR9075,New York,Dubai,2023-12-28,12:19:24,Airbus A380,Delayed
+QR8433,Berlin,Paris,2024-08-26,04:20:04,Airbus A380,Canceled
+QR8469,Paris,Doha,2024-04-26,06:56:27,Airbus A380,On-Time
+QR2922,Doha,Dubai,2024-01-12,17:32:12,Airbus A380,On-Time
+QR7917,New York,London,2024-09-16,13:27:06,Airbus A380,Delayed
+QR340,Berlin,New York,2024-01-30,09:23:32,Boeing 787,Canceled
+QR1647,Sydney,New York,2024-01-15,23:49:54,Airbus A350,Canceled
+QR4932,Doha,Dubai,2024-09-26,04:32:12,Boeing 777,On-Time
+QR4019,Sydney,Paris,2023-12-07,08:09:44,Boeing 777,Delayed
+QR7767,Tokyo,New York,2024-07-28,08:47:37,Boeing 787,Delayed
+QR9157,Tokyo,Dubai,2024-07-05,05:56:29,Boeing 777,On-Time
+QR3453,Berlin,Doha,2024-06-05,14:17:37,Boeing 787,Delayed
+QR510,New York,Sydney,2024-04-18,08:34:04,Boeing 777,Delayed
+QR9105,Tokyo,London,2023-11-22,12:06:59,Boeing 787,On-Time
+QR527,New York,Paris,2023-11-18,18:55:01,Airbus A350,On-Time
+QR8658,London,Doha,2024-07-29,16:03:21,Boeing 787,Canceled
+QR3459,Doha,London,2024-06-27,21:07:11,Airbus A380,Delayed
+QR1564,New York,Sydney,2024-01-27,13:28:53,Boeing 777,Delayed
+QR8408,Sydney,Paris,2024-04-08,21:15:19,Airbus A350,Delayed
+QR6770,London,Dubai,2024-10-04,15:50:21,Airbus A350,On-Time
+QR3965,London,Tokyo,2024-08-06,10:49:34,Boeing 787,On-Time
+QR668,Doha,London,2024-10-02,11:12:44,Boeing 787,Delayed
+QR3735,New York,Doha,2024-03-25,06:41:57,Boeing 787,Canceled
+QR4425,London,Sydney,2023-10-25,14:15:18,Boeing 777,On-Time
+QR5133,London,Doha,2024-03-29,10:35:12,Boeing 777,On-Time
+QR5263,London,Doha,2023-11-27,09:24:52,Airbus A350,Delayed
+QR4723,Sydney,Berlin,2024-08-28,01:02:31,Airbus A350,Delayed
+QR7208,Sydney,London,2024-03-14,21:57:18,Airbus A380,Canceled
+QR8799,New York,Doha,2024-03-24,05:42:53,Airbus A380,Canceled
+QR8138,Dubai,Tokyo,2024-02-28,19:39:12,Airbus A380,Delayed
+QR8983,Berlin,Sydney,2024-08-12,08:17:41,Boeing 787,Delayed
+QR7190,Doha,New York,2024-05-19,12:29:21,Airbus A350,Canceled
+QR8716,New York,Dubai,2024-06-30,13:10:06,Airbus A350,On-Time
+QR2646,Paris,Sydney,2024-10-12,21:18:39,Boeing 787,On-Time
+QR6626,Doha,Sydney,2024-06-04,09:51:19,Airbus A380,Canceled
+QR2072,New York,Sydney,2024-03-11,19:20:48,Airbus A380,Delayed
+QR1930,London,Berlin,2024-02-04,20:25:23,Airbus A380,Delayed
+QR6083,London,Tokyo,2024-05-24,05:32:50,Airbus A380,On-Time
+QR4155,New York,Berlin,2024-04-10,03:11:44,Boeing 777,Delayed
+QR6789,Sydney,Paris,2024-07-20,05:24:12,Airbus A380,Delayed
+QR1171,Paris,Tokyo,2024-04-19,00:44:22,Boeing 787,On-Time
+QR7036,Doha,Dubai,2024-05-29,02:48:07,Airbus A350,Canceled
+QR5588,London,Berlin,2023-12-24,13:39:17,Boeing 777,On-Time
+QR6199,Tokyo,Doha,2024-03-30,23:27:35,Airbus A380,On-Time
+QR9853,Tokyo,Dubai,2024-10-22,07:43:38,Boeing 787,Canceled
+QR9701,Tokyo,Doha,2024-06-07,05:59:57,Airbus A350,Canceled
+QR9785,New York,Sydney,2024-05-22,04:26:21,Boeing 777,Delayed
+QR7670,London,Berlin,2024-09-25,00:53:08,Boeing 787,Canceled
+QR5972,Sydney,Dubai,2024-04-07,23:58:43,Airbus A350,Delayed
+QR3081,Sydney,Doha,2024-04-28,00:57:32,Airbus A350,Canceled
+QR1576,New York,Tokyo,2024-02-08,23:26:45,Boeing 787,Canceled
+QR8426,New York,Doha,2024-05-26,09:18:22,Boeing 787,Canceled
+QR9077,London,Doha,2024-06-30,21:31:30,Boeing 787,Canceled
+QR4196,Dubai,Doha,2024-10-05,07:48:50,Boeing 787,Canceled
+QR2914,Doha,Berlin,2024-09-15,14:25:19,Airbus A380,On-Time
+QR4689,London,New York,2023-12-17,23:24:56,Boeing 787,On-Time
+QR2631,Sydney,Berlin,2024-05-26,10:10:48,Boeing 777,Delayed
+QR6969,Berlin,Sydney,2024-05-04,00:08:20,Airbus A380,Canceled
+QR4318,New York,Tokyo,2024-06-23,15:22:41,Boeing 777,Delayed
+QR5217,Doha,New York,2023-10-28,00:16:09,Airbus A380,On-Time
+QR7744,Paris,Sydney,2024-09-20,16:38:09,Boeing 777,Delayed
+QR8867,Tokyo,Dubai,2024-10-11,14:55:06,Airbus A350,Delayed
+QR4058,Tokyo,Dubai,2023-11-17,23:43:18,Airbus A380,Canceled
+QR5437,London,Paris,2024-04-10,01:25:03,Airbus A380,Delayed
+QR1837,Berlin,New York,2024-01-12,06:34:37,Airbus A350,Delayed
+QR7399,Sydney,New York,2024-05-06,22:37:43,Airbus A350,Canceled
+QR331,Berlin,Sydney,2024-05-30,07:09:16,Airbus A380,Delayed
+QR4989,Sydney,Berlin,2024-01-10,19:27:22,Airbus A350,On-Time
+QR6982,Doha,Sydney,2024-06-02,16:43:31,Airbus A350,Delayed
+QR3998,New York,Paris,2024-04-17,11:02:16,Boeing 777,Canceled
+QR3661,Paris,Dubai,2024-01-17,04:50:38,Boeing 777,Canceled
+QR7215,Tokyo,Sydney,2024-03-02,18:44:38,Airbus A380,Canceled
+QR3592,Paris,Dubai,2024-08-08,14:45:40,Airbus A380,On-Time
+QR6200,Dubai,London,2024-07-15,07:57:42,Airbus A350,Delayed
+QR5245,New York,Tokyo,2024-03-04,21:22:44,Airbus A380,Canceled
+QR4425,Berlin,Paris,2023-12-23,03:44:14,Boeing 777,On-Time
+QR1392,London,Dubai,2024-03-23,05:24:25,Airbus A380,Delayed
+QR3651,Dubai,London,2024-05-06,16:40:36,Airbus A350,Canceled
+QR8983,Sydney,Paris,2024-03-11,07:48:07,Boeing 787,Delayed
+QR2874,London,Dubai,2024-04-23,14:13:22,Boeing 787,Delayed
+QR7990,London,New York,2024-06-24,16:49:49,Airbus A380,Canceled
+QR9797,London,Paris,2024-08-24,15:53:52,Boeing 787,On-Time
+QR8883,Berlin,Sydney,2024-07-21,19:17:56,Boeing 777,On-Time
+QR5563,New York,London,2024-08-03,11:40:26,Boeing 787,Canceled
+QR5812,New York,London,2024-02-18,17:59:08,Boeing 777,Canceled
+QR9598,Dubai,Paris,2023-11-11,12:26:21,Boeing 777,Delayed
+QR9360,Doha,Sydney,2023-11-24,20:21:01,Airbus A350,Canceled
+QR5456,Tokyo,London,2024-09-11,19:52:18,Airbus A350,Delayed
+QR3036,Tokyo,Doha,2024-10-12,02:39:46,Airbus A380,On-Time
+QR1615,Tokyo,Paris,2024-04-09,05:44:54,Boeing 787,Delayed
+QR1573,Dubai,Doha,2024-06-29,02:23:41,Airbus A380,Delayed
+QR408,London,New York,2024-03-19,20:21:01,Airbus A350,On-Time
+QR1258,Dubai,Tokyo,2024-07-08,05:07:35,Boeing 787,Canceled
+QR8857,London,Tokyo,2024-03-21,08:42:56,Boeing 787,Delayed
+QR927,Doha,Dubai,2024-02-02,11:56:50,Airbus A380,On-Time
+QR4503,New York,Tokyo,2024-05-31,17:29:11,Airbus A380,Canceled
+QR6434,Doha,Tokyo,2024-08-14,18:16:33,Airbus A380,Delayed
+QR5960,Dubai,Sydney,2023-12-03,14:02:52,Airbus A350,Canceled
+QR6250,Dubai,Paris,2024-08-24,04:09:57,Boeing 777,Canceled
+QR4813,New York,Tokyo,2023-10-24,16:12:59,Boeing 777,Delayed
+QR1150,Doha,London,2024-10-12,18:30:25,Boeing 787,Canceled
+QR9291,Doha,Tokyo,2024-08-29,08:49:54,Airbus A380,Delayed
+QR9580,Berlin,Doha,2024-09-04,22:10:42,Boeing 777,Delayed
+QR5419,Berlin,Dubai,2024-07-08,21:06:55,Airbus A350,Delayed
+QR3685,Sydney,Paris,2024-05-22,10:49:47,Airbus A380,Canceled
+QR4526,London,Tokyo,2023-12-11,11:05:12,Boeing 777,Delayed
+QR1686,Doha,New York,2024-10-02,10:53:36,Airbus A350,Canceled
+QR5482,Doha,Berlin,2024-07-18,06:34:45,Boeing 787,Delayed
+QR6218,Tokyo,Doha,2024-05-08,10:53:04,Airbus A350,Canceled
+QR5782,Sydney,Dubai,2024-04-04,03:12:48,Airbus A350,On-Time
+QR9956,New York,Tokyo,2024-02-09,15:55:47,Boeing 787,Delayed
+QR7940,Tokyo,Sydney,2023-11-19,13:59:34,Airbus A380,On-Time
+QR2281,Paris,London,2023-12-02,00:15:42,Airbus A380,On-Time
+QR7595,Berlin,Paris,2023-12-12,07:49:10,Airbus A380,Delayed
+QR8517,Paris,Doha,2023-12-17,06:39:03,Airbus A350,Canceled
+QR3670,Paris,Dubai,2024-09-22,18:27:26,Boeing 787,Delayed
+QR4209,New York,Sydney,2024-03-28,17:18:57,Boeing 777,Delayed
+QR3143,Berlin,Doha,2024-05-19,19:42:08,Boeing 787,Delayed
+QR6478,New York,Dubai,2024-08-25,01:53:43,Boeing 777,Delayed
+QR3914,Doha,Tokyo,2024-01-31,03:48:35,Airbus A350,Delayed
+QR5968,London,New York,2024-08-20,03:37:38,Airbus A350,Canceled
+QR4205,Dubai,Tokyo,2024-07-12,20:54:51,Boeing 777,On-Time
+QR3626,Dubai,Doha,2023-12-11,19:48:58,Airbus A380,Delayed
+QR2474,Sydney,London,2024-06-05,12:59:01,Boeing 787,Delayed
+QR6190,Doha,Sydney,2024-04-24,18:46:08,Boeing 777,Delayed
+QR2690,Sydney,Paris,2024-04-06,19:41:41,Airbus A350,Delayed
+QR1538,Dubai,Paris,2024-03-25,16:16:59,Boeing 777,On-Time
+QR1416,New York,Dubai,2023-12-29,18:16:35,Boeing 787,Delayed
+QR6063,Sydney,Dubai,2023-11-17,04:21:56,Airbus A380,On-Time
+QR3515,Paris,Tokyo,2024-02-11,20:02:21,Boeing 777,Canceled
+QR1558,London,Tokyo,2024-05-23,21:25:11,Airbus A350,On-Time
+QR7554,New York,Paris,2024-07-12,02:09:15,Airbus A350,Canceled
+QR6714,New York,Paris,2024-07-31,09:33:20,Airbus A350,Canceled
+QR5921,Dubai,New York,2024-07-17,12:35:27,Airbus A380,On-Time
+QR9613,Dubai,London,2024-02-18,11:20:54,Boeing 787,On-Time
+QR3403,Sydney,New York,2024-08-15,00:22:08,Airbus A380,On-Time
+QR6373,Dubai,New York,2024-10-03,04:50:20,Boeing 777,Delayed
+QR8292,Tokyo,Dubai,2023-12-07,23:56:47,Airbus A380,Canceled
+QR8676,Sydney,Paris,2024-05-17,09:15:18,Airbus A350,Canceled
+QR8805,New York,Paris,2024-06-04,04:52:35,Boeing 777,Delayed
+QR3831,Tokyo,Dubai,2024-10-22,02:43:37,Boeing 777,Delayed
+QR6527,Berlin,Doha,2024-01-31,14:16:37,Airbus A380,Canceled
+QR2287,Paris,Doha,2024-07-28,00:31:02,Boeing 777,Delayed
+QR8999,Sydney,Dubai,2023-11-17,08:48:14,Boeing 787,Canceled
+QR8726,Berlin,New York,2024-04-01,05:40:51,Boeing 787,Delayed
+QR4678,New York,Tokyo,2024-09-29,15:18:54,Boeing 777,Delayed
+QR5447,New York,Sydney,2024-08-25,10:57:50,Boeing 787,Canceled
+QR8722,Paris,Dubai,2024-02-18,01:56:39,Boeing 787,On-Time
+QR7864,New York,Berlin,2024-08-31,08:50:13,Airbus A380,Canceled
+QR6633,Tokyo,Sydney,2023-12-09,15:04:03,Airbus A380,Delayed
+QR6550,Berlin,Sydney,2024-03-17,01:50:51,Boeing 777,Canceled
+QR765,New York,Berlin,2024-03-20,03:47:08,Airbus A380,Delayed
+QR9804,Dubai,Doha,2024-09-05,04:26:04,Boeing 787,Canceled
+QR3880,Tokyo,Dubai,2024-08-22,01:47:22,Boeing 787,Canceled
+QR7926,Tokyo,London,2023-12-14,02:13:52,Boeing 787,Delayed
+QR6978,Dubai,London,2024-10-22,21:36:51,Airbus A380,Delayed
+QR4596,Sydney,Tokyo,2024-04-13,10:36:43,Airbus A380,On-Time
+QR8797,Tokyo,Dubai,2024-05-31,23:04:50,Airbus A350,On-Time
+QR2770,Paris,Dubai,2024-09-07,09:57:37,Boeing 787,Delayed
+QR465,Sydney,Berlin,2024-03-07,22:23:25,Airbus A350,On-Time
+QR5763,Berlin,London,2024-01-08,16:02:22,Airbus A350,Canceled
+QR3065,Tokyo,London,2024-10-15,09:50:07,Airbus A380,On-Time
+QR8041,Tokyo,Paris,2024-07-30,07:55:15,Airbus A380,Delayed
+QR2157,New York,Tokyo,2024-01-23,06:29:05,Airbus A350,Delayed
+QR2938,London,Berlin,2024-09-07,14:10:44,Boeing 787,Canceled
+QR3185,Tokyo,Dubai,2024-04-27,09:11:36,Airbus A350,Delayed
+QR2103,Tokyo,London,2024-03-17,18:00:58,Boeing 787,Delayed
+QR856,Tokyo,New York,2023-11-02,17:50:23,Airbus A380,Delayed
+QR860,Sydney,New York,2024-03-09,08:46:42,Boeing 777,Canceled
+QR6279,Tokyo,Doha,2024-08-27,14:43:17,Boeing 787,Delayed
+QR6399,Dubai,Paris,2024-04-25,05:26:57,Boeing 777,Delayed
+QR4681,Berlin,Sydney,2024-07-19,14:39:12,Boeing 777,On-Time
+QR9760,Tokyo,London,2023-10-26,01:54:56,Airbus A350,On-Time
+QR449,Doha,Berlin,2024-07-08,21:17:47,Boeing 787,On-Time
+QR9693,Sydney,Berlin,2023-11-28,01:06:13,Airbus A380,Canceled
+QR6899,Doha,Tokyo,2024-06-10,13:08:58,Boeing 777,On-Time
+QR6228,Paris,London,2024-03-31,17:18:05,Boeing 787,On-Time
+QR7447,London,Doha,2024-10-03,11:55:10,Airbus A380,On-Time
+QR6651,New York,Doha,2024-01-27,12:07:40,Airbus A350,Delayed
+QR3802,Doha,Sydney,2024-04-13,22:57:58,Boeing 777,On-Time
+QR8801,London,Paris,2023-12-30,07:30:08,Boeing 777,Delayed
+QR3539,Sydney,Doha,2023-10-28,15:53:38,Airbus A380,Canceled
+QR5786,Berlin,Doha,2024-02-20,13:49:16,Boeing 777,Canceled
+QR627,Dubai,Sydney,2024-03-17,12:05:00,Airbus A380,Canceled
+QR4698,Paris,Tokyo,2023-12-02,10:21:35,Boeing 777,On-Time
+QR3795,Berlin,Paris,2024-02-24,19:06:50,Airbus A350,On-Time
+QR4079,Paris,Dubai,2024-09-11,13:08:58,Airbus A350,On-Time
+QR7382,Paris,London,2024-09-20,09:27:04,Boeing 777,Delayed
+QR5035,Berlin,Dubai,2024-09-20,04:10:29,Airbus A380,Delayed
+QR8747,Tokyo,Paris,2024-04-12,07:52:49,Airbus A380,Delayed
+QR8411,Berlin,London,2024-06-17,18:29:08,Airbus A350,On-Time
+QR1559,Doha,Dubai,2024-03-09,01:52:26,Boeing 777,Delayed
+QR1716,Berlin,Paris,2024-08-20,06:05:14,Boeing 787,Canceled
+QR421,Berlin,Tokyo,2023-12-07,15:06:27,Airbus A380,Delayed
+QR2840,New York,Tokyo,2024-04-07,22:45:35,Airbus A350,Delayed
+QR599,London,Sydney,2024-04-17,13:53:25,Boeing 777,On-Time
+QR9816,Sydney,Tokyo,2024-06-12,06:39:49,Boeing 787,Delayed
+QR5645,London,Doha,2024-03-29,18:25:01,Boeing 787,On-Time
+QR2609,Paris,Tokyo,2023-10-25,14:30:28,Airbus A380,Canceled
+QR449,Paris,Dubai,2024-10-05,20:13:55,Boeing 787,Delayed
+QR6668,Sydney,Dubai,2024-04-18,14:18:03,Airbus A350,On-Time
+QR7323,Doha,London,2024-08-06,18:41:29,Boeing 787,Delayed
+QR7906,New York,Doha,2023-12-05,12:14:51,Airbus A350,On-Time
+QR7818,London,Berlin,2024-01-19,20:39:57,Airbus A380,Canceled
+QR5679,Doha,London,2024-09-22,22:47:54,Boeing 777,Delayed
+QR5730,Paris,London,2023-10-31,06:06:00,Boeing 777,On-Time
+QR7539,New York,Sydney,2024-06-07,04:24:19,Boeing 777,Canceled
+QR1791,London,Doha,2024-07-18,03:54:20,Boeing 787,Delayed
+QR2440,Tokyo,Dubai,2024-07-07,06:12:04,Airbus A350,Canceled
+QR8965,London,Berlin,2024-09-21,17:08:44,Airbus A350,Canceled
+QR4609,Paris,London,2024-06-06,04:42:52,Airbus A350,Canceled
+QR3477,Dubai,Paris,2023-12-17,03:27:08,Boeing 787,Canceled
+QR8760,Dubai,Doha,2024-01-18,11:16:42,Airbus A380,Delayed
+QR1435,Tokyo,Berlin,2024-03-08,03:39:51,Airbus A350,Delayed
+QR6386,London,New York,2024-03-15,03:40:52,Airbus A350,Canceled
+QR5882,Doha,Berlin,2023-12-25,20:27:55,Airbus A380,On-Time
+QR4827,Doha,Sydney,2024-10-15,08:02:21,Airbus A380,On-Time
+QR8773,London,Sydney,2023-11-05,17:02:30,Airbus A350,Canceled
+QR7214,Dubai,London,2024-04-26,09:10:35,Boeing 787,Canceled
+QR1270,New York,Sydney,2024-07-31,22:46:58,Airbus A380,Delayed
+QR9499,Tokyo,Doha,2024-08-29,06:57:33,Airbus A350,On-Time
+QR3110,Tokyo,Doha,2024-08-05,23:39:00,Boeing 787,On-Time
+QR6604,Dubai,New York,2024-01-09,06:59:46,Airbus A380,On-Time
+QR4274,Tokyo,Doha,2024-03-12,08:22:30,Airbus A380,Delayed
+QR5421,Berlin,Tokyo,2024-09-29,00:02:12,Airbus A350,On-Time
+QR9126,Dubai,Paris,2024-10-17,05:07:20,Boeing 787,Canceled
+QR9397,Berlin,Tokyo,2023-11-29,17:09:58,Boeing 787,Canceled
+QR2562,Dubai,London,2024-09-30,00:18:55,Boeing 787,Delayed
+QR3950,Tokyo,Berlin,2024-06-09,05:24:29,Airbus A350,Delayed
+QR5392,Tokyo,London,2024-06-21,15:04:21,Airbus A350,On-Time
+QR2545,Doha,Sydney,2024-03-25,13:29:42,Boeing 777,Delayed
+QR4089,Tokyo,Sydney,2024-05-31,08:52:22,Airbus A380,Canceled
+QR5385,New York,London,2024-07-04,11:39:42,Airbus A350,On-Time
+QR6548,Doha,London,2024-04-24,12:15:37,Airbus A380,On-Time
+QR6292,Dubai,Doha,2024-03-02,13:54:09,Airbus A350,Canceled
+QR5187,Dubai,Sydney,2024-08-31,04:10:07,Boeing 777,On-Time
+QR9169,Dubai,London,2024-02-12,23:08:58,Airbus A380,On-Time
+QR8349,Sydney,Doha,2024-03-13,21:58:29,Boeing 787,On-Time
+QR6186,Doha,Paris,2023-11-18,05:06:53,Boeing 787,Delayed
+QR3043,New York,Paris,2024-05-16,23:12:56,Boeing 787,On-Time
+QR4349,London,Doha,2024-01-10,14:59:50,Airbus A380,On-Time
+QR8017,New York,Doha,2024-07-11,12:05:51,Airbus A380,Canceled
+QR1524,Dubai,Doha,2024-03-06,15:06:39,Airbus A350,On-Time
+QR8003,Sydney,Paris,2024-03-05,22:10:21,Boeing 777,Canceled
+QR2651,Sydney,London,2024-09-19,10:36:24,Airbus A350,Delayed
+QR9124,Doha,Dubai,2024-06-11,21:35:20,Airbus A380,Canceled
+QR1960,Dubai,Paris,2023-11-20,11:07:04,Boeing 787,Canceled
+QR4297,New York,Doha,2024-05-14,10:21:19,Airbus A350,Canceled
+QR7047,London,Tokyo,2024-08-03,05:24:31,Airbus A380,Delayed
+QR6816,Berlin,Tokyo,2024-01-19,12:26:40,Airbus A350,On-Time
+QR2057,New York,Berlin,2024-05-07,06:18:13,Airbus A350,Delayed
+QR6921,Sydney,London,2024-06-01,12:08:18,Boeing 777,Canceled
+QR1534,Dubai,Berlin,2024-02-16,15:24:21,Boeing 777,Delayed
+QR4312,Tokyo,Paris,2023-11-05,19:23:47,Airbus A380,Delayed
+QR1461,Dubai,London,2024-02-17,22:20:23,Boeing 787,Canceled
+QR714,Paris,Doha,2023-12-13,12:01:47,Airbus A350,Delayed
+QR5109,Doha,New York,2024-03-25,13:25:25,Airbus A380,On-Time
+QR8076,Paris,Berlin,2024-08-05,11:44:10,Airbus A350,On-Time
+QR5805,Doha,Dubai,2024-01-13,22:14:05,Airbus A380,Canceled
+QR723,Dubai,London,2024-04-23,16:58:08,Boeing 787,Canceled
+QR2017,Paris,London,2023-11-28,05:40:15,Airbus A350,Delayed
+QR1206,Paris,New York,2024-01-11,16:56:05,Airbus A380,Delayed
+QR7160,New York,Doha,2024-09-01,13:26:30,Boeing 777,Canceled
+QR4752,Paris,New York,2024-04-18,20:57:06,Boeing 777,Canceled
+QR288,Paris,Berlin,2024-01-30,10:56:05,Boeing 777,Canceled
+QR1453,New York,Paris,2024-08-07,08:37:22,Airbus A350,On-Time
+QR2482,Sydney,Paris,2024-01-06,21:53:57,Boeing 787,Canceled
+QR9251,London,Dubai,2023-11-08,14:43:37,Airbus A350,Delayed
+QR299,Sydney,Doha,2024-01-21,20:07:41,Airbus A380,Canceled
+QR7461,Berlin,Tokyo,2024-05-31,02:53:21,Boeing 777,On-Time
+QR7971,Tokyo,London,2024-06-01,11:03:35,Airbus A380,On-Time
+QR5750,Dubai,Paris,2024-03-11,02:32:52,Airbus A350,Canceled
+QR7343,Berlin,Tokyo,2024-05-25,19:52:37,Airbus A380,On-Time
+QR1633,Sydney,London,2024-04-06,17:06:17,Boeing 777,Delayed
+QR114,Doha,New York,2024-07-29,04:13:25,Boeing 777,On-Time
+QR5293,Berlin,London,2024-07-15,19:16:49,Boeing 787,On-Time
+QR4346,Tokyo,Paris,2024-05-27,13:04:33,Boeing 787,Canceled
+QR7638,Paris,Tokyo,2024-04-29,15:59:30,Boeing 787,Canceled
+QR3276,Sydney,Dubai,2024-08-05,18:14:46,Boeing 787,Delayed
+QR3808,Sydney,London,2024-03-03,10:42:24,Airbus A380,Canceled
+QR3400,Paris,Dubai,2024-01-17,07:41:48,Boeing 787,On-Time
+QR3319,Doha,London,2023-12-05,21:30:30,Boeing 787,Canceled
+QR2015,Paris,Doha,2023-11-03,05:34:00,Boeing 787,On-Time
+QR1063,Paris,Dubai,2024-04-19,12:39:20,Airbus A350,Canceled
+QR673,Doha,New York,2024-02-24,23:41:21,Boeing 787,On-Time
+QR5855,London,Paris,2024-07-20,04:19:50,Airbus A350,On-Time
+QR2098,New York,Dubai,2024-03-08,09:02:04,Airbus A350,Delayed
+QR3095,Tokyo,London,2024-10-06,00:51:06,Boeing 777,On-Time
+QR5913,Doha,Dubai,2024-02-28,02:54:03,Boeing 777,Delayed
+QR9832,Dubai,London,2024-02-16,18:36:08,Boeing 777,Delayed
+QR7363,London,Berlin,2024-08-16,08:12:36,Airbus A380,On-Time
+QR2321,Sydney,London,2024-10-22,17:20:05,Boeing 787,Delayed
+QR8292,Paris,London,2023-11-17,08:19:26,Boeing 777,Canceled
+QR7322,Doha,Paris,2024-09-16,18:45:40,Airbus A380,Delayed
+QR7331,Dubai,New York,2024-07-19,22:01:43,Airbus A380,Canceled
+QR6485,New York,Sydney,2023-11-04,05:22:10,Boeing 777,On-Time
+QR2224,Berlin,Dubai,2024-08-28,18:55:23,Airbus A380,On-Time
+QR1327,London,Sydney,2023-12-23,18:21:57,Airbus A380,Delayed
+QR2125,Doha,London,2024-10-06,14:29:17,Boeing 777,On-Time
+QR4842,New York,Sydney,2023-11-28,15:37:15,Airbus A350,On-Time
+QR9817,Tokyo,Sydney,2023-11-11,17:56:11,Boeing 787,On-Time
+QR7937,New York,Tokyo,2023-12-02,09:00:24,Boeing 787,Canceled
+QR8738,Paris,Sydney,2024-09-03,08:10:23,Boeing 787,On-Time
+QR7799,London,Berlin,2024-04-12,15:59:21,Boeing 777,Canceled
+QR1959,Sydney,London,2024-02-20,00:42:37,Boeing 787,Delayed
+QR6635,New York,Sydney,2024-10-07,02:21:33,Boeing 787,Canceled
+QR8028,Berlin,Tokyo,2024-06-21,13:06:58,Boeing 787,Delayed
+QR902,Dubai,London,2024-08-09,09:51:00,Boeing 777,On-Time
+QR2171,Berlin,London,2023-11-13,13:44:20,Boeing 787,Canceled
+QR9457,Sydney,Paris,2024-01-13,10:39:54,Airbus A380,Canceled
+QR8275,Sydney,Berlin,2024-08-31,00:38:49,Boeing 777,On-Time
+QR8437,Tokyo,Sydney,2024-09-17,20:24:05,Boeing 777,Canceled
+QR9784,Dubai,New York,2024-02-04,12:05:45,Airbus A380,Canceled
+QR7725,Berlin,Doha,2024-04-05,07:42:30,Airbus A350,On-Time
+QR1517,Paris,Doha,2023-12-05,21:11:26,Airbus A350,On-Time
+QR8123,Sydney,Berlin,2024-04-14,02:05:43,Boeing 777,Canceled
+QR7718,Doha,London,2024-09-16,00:27:53,Airbus A380,Canceled
+QR732,New York,Doha,2023-12-12,01:34:04,Airbus A350,Delayed
+QR9244,Tokyo,London,2024-05-09,03:22:50,Airbus A380,Canceled
+QR4134,Paris,New York,2024-07-25,14:44:44,Airbus A350,On-Time
+QR3810,Sydney,New York,2024-05-03,12:16:32,Airbus A380,Canceled
+QR6138,Tokyo,Paris,2024-02-29,21:03:53,Boeing 777,Canceled
+QR8649,London,New York,2024-08-15,12:27:18,Boeing 787,Delayed
+QR2579,Doha,New York,2023-12-29,16:29:28,Airbus A380,Delayed
+QR9881,Sydney,Tokyo,2024-06-10,09:22:52,Airbus A350,Delayed
+QR5081,London,Dubai,2024-09-22,16:45:00,Boeing 777,Delayed
+QR4446,New York,Dubai,2024-05-08,08:14:31,Boeing 777,Canceled
+QR1901,New York,Sydney,2024-06-08,01:30:58,Airbus A350,Delayed
+QR9061,Berlin,Doha,2024-04-19,22:52:16,Airbus A380,On-Time
+QR4481,Dubai,Sydney,2024-09-21,14:41:36,Boeing 777,On-Time
+QR3144,London,New York,2023-11-19,08:42:26,Boeing 777,Canceled
+QR5872,Dubai,Sydney,2023-10-27,05:45:28,Boeing 777,Canceled
+QR268,Berlin,Doha,2024-06-20,08:49:28,Boeing 777,Canceled
+QR604,New York,Tokyo,2024-01-02,10:21:47,Boeing 787,Delayed
+QR4047,Paris,Doha,2024-08-23,20:43:49,Airbus A380,Canceled
+QR5371,New York,Berlin,2024-05-09,17:20:09,Boeing 787,Canceled
+QR2482,Sydney,Doha,2024-02-12,15:46:27,Airbus A380,Canceled
+QR5649,Tokyo,Berlin,2024-02-08,22:57:49,Airbus A380,Delayed
+QR6316,Tokyo,New York,2024-08-11,21:44:47,Airbus A350,Canceled
+QR1916,Dubai,Sydney,2024-09-17,06:32:10,Boeing 787,On-Time
+QR5714,Tokyo,Paris,2024-03-19,14:54:45,Airbus A380,Canceled
+QR7088,Doha,Berlin,2024-01-18,14:08:30,Airbus A380,Delayed
+QR8750,Sydney,Doha,2024-08-07,23:36:12,Boeing 777,On-Time
+QR3105,Sydney,New York,2024-06-29,22:05:56,Airbus A350,Delayed
+QR4857,Tokyo,New York,2024-02-14,12:13:50,Boeing 777,Canceled
+QR2559,Paris,Berlin,2024-01-15,22:17:05,Boeing 777,On-Time
+QR3525,Berlin,New York,2024-02-28,02:59:14,Airbus A380,Delayed
+QR546,Dubai,Paris,2023-11-10,16:06:15,Airbus A350,Canceled
+QR2185,Tokyo,London,2024-08-14,15:26:32,Airbus A350,Delayed
+QR8526,Doha,Tokyo,2024-04-13,14:52:36,Boeing 787,Delayed
+QR2089,Paris,London,2024-09-06,07:13:36,Boeing 787,Canceled
+QR3114,Dubai,Berlin,2024-10-16,10:13:41,Airbus A350,Canceled
+QR4103,London,Tokyo,2023-12-13,02:52:50,Boeing 777,On-Time
+QR1117,New York,Doha,2024-05-30,00:45:20,Boeing 777,On-Time
+QR324,Tokyo,New York,2024-02-10,01:21:12,Boeing 777,Delayed
+QR3736,Sydney,London,2024-06-23,13:24:56,Boeing 787,On-Time
+QR3744,Sydney,New York,2024-06-18,18:09:10,Boeing 777,On-Time
+QR5673,Berlin,London,2023-12-04,18:28:12,Airbus A350,On-Time
+QR6219,London,Tokyo,2024-03-11,14:03:19,Boeing 787,Delayed
+QR6178,Dubai,Sydney,2024-08-18,15:00:47,Boeing 787,Delayed
+QR9756,New York,London,2024-08-02,05:00:55,Boeing 787,Delayed
+QR1547,Berlin,New York,2024-10-17,02:10:17,Boeing 787,Canceled
+QR8409,Doha,New York,2024-09-26,17:28:27,Boeing 777,Delayed
+QR193,Sydney,Paris,2024-09-23,19:18:39,Airbus A380,Delayed
+QR3054,Berlin,Paris,2024-07-26,00:05:36,Boeing 777,On-Time
+QR7548,Doha,Paris,2024-10-17,07:53:51,Airbus A350,On-Time
+QR9518,Doha,New York,2023-11-16,10:38:48,Boeing 787,Canceled
+QR9983,Doha,Paris,2024-01-25,19:29:08,Airbus A380,Canceled
+QR5359,New York,Doha,2023-12-18,02:22:47,Airbus A380,Delayed
+QR598,Doha,Paris,2024-04-01,01:18:13,Airbus A380,On-Time
+QR6220,Sydney,Dubai,2024-05-14,00:56:33,Airbus A380,Delayed
+QR1364,Berlin,Dubai,2024-05-06,04:05:23,Boeing 787,Canceled
+QR2062,Dubai,Doha,2024-05-05,23:05:25,Boeing 777,Canceled
+QR942,Tokyo,London,2023-12-10,06:23:47,Airbus A380,On-Time
+QR4654,Paris,Doha,2024-02-14,16:24:53,Boeing 777,Delayed
+QR3644,Berlin,Paris,2024-02-01,10:53:52,Boeing 787,Canceled
+QR6441,Dubai,Sydney,2023-10-25,10:32:36,Airbus A380,Delayed
+QR8506,New York,London,2024-08-17,21:01:59,Boeing 787,On-Time
+QR4781,Doha,London,2024-06-25,09:05:02,Airbus A350,Delayed
+QR5254,Dubai,Paris,2024-07-17,10:43:08,Boeing 777,On-Time
+QR8991,Sydney,Berlin,2024-02-12,23:31:39,Boeing 777,Canceled
+QR8137,Paris,New York,2024-08-20,14:45:28,Boeing 787,On-Time
+QR3287,Doha,Paris,2024-10-15,02:38:27,Boeing 777,Delayed
+QR9332,Dubai,Berlin,2024-10-11,22:50:25,Airbus A350,Delayed
+QR3319,Berlin,Sydney,2024-05-06,15:21:13,Airbus A350,Canceled
+QR5069,Sydney,Dubai,2024-07-19,13:37:39,Boeing 777,On-Time
+QR8059,Sydney,New York,2024-05-17,05:01:35,Boeing 787,On-Time
+QR3998,Berlin,New York,2023-12-20,13:03:08,Boeing 777,Canceled
+QR6445,London,Doha,2024-01-16,10:45:37,Boeing 777,Delayed
+QR9929,Doha,Berlin,2024-01-10,17:37:51,Airbus A380,On-Time
+QR6052,Tokyo,Berlin,2024-03-06,12:57:04,Boeing 787,Canceled
+QR842,Doha,Berlin,2024-09-03,02:30:24,Airbus A380,Delayed
+QR807,New York,Sydney,2024-04-12,02:01:09,Boeing 777,Delayed
+QR9741,Sydney,Berlin,2024-04-17,05:33:47,Boeing 787,Canceled
+QR9410,Sydney,Paris,2024-04-12,06:57:22,Airbus A380,Canceled
+QR5404,Tokyo,London,2024-06-16,11:02:29,Airbus A350,Delayed
+QR6844,Tokyo,Sydney,2024-09-22,03:14:15,Airbus A350,Canceled
+QR7241,Berlin,Doha,2024-04-02,02:19:38,Boeing 777,Canceled
+QR4260,Sydney,New York,2024-02-13,00:40:13,Boeing 777,Delayed
+QR3077,London,New York,2024-05-25,16:32:56,Boeing 787,Canceled
+QR534,Tokyo,London,2024-04-13,22:45:51,Boeing 777,Delayed
+QR7732,New York,Tokyo,2023-12-14,22:53:47,Airbus A380,On-Time
+QR8126,Tokyo,Dubai,2024-07-06,16:40:14,Boeing 787,Canceled
+QR6341,Berlin,Sydney,2024-05-15,14:15:33,Boeing 787,Delayed
+QR6334,Doha,Dubai,2024-04-14,09:59:05,Airbus A380,Canceled
+QR5894,Dubai,Tokyo,2023-12-30,07:32:35,Boeing 777,On-Time
+QR2283,Berlin,Tokyo,2023-11-08,08:21:10,Airbus A350,Delayed
+QR6071,Paris,New York,2024-02-29,20:38:07,Airbus A380,Delayed
+QR3253,Doha,Tokyo,2024-02-25,06:34:56,Boeing 787,On-Time
+QR5608,Paris,Berlin,2024-04-10,14:42:29,Airbus A350,Delayed
+QR725,Berlin,London,2024-01-31,16:32:17,Airbus A380,Canceled
+QR5622,Berlin,London,2024-05-26,11:43:02,Boeing 777,On-Time
+QR3464,New York,Berlin,2024-07-06,06:34:00,Airbus A380,On-Time
+QR6031,Paris,London,2024-07-18,08:58:54,Boeing 787,On-Time
+QR8122,Berlin,Sydney,2024-05-25,05:36:28,Boeing 777,Canceled
+QR2852,Paris,New York,2023-11-19,10:35:35,Boeing 777,Canceled
+QR3428,Doha,Berlin,2024-02-26,04:51:31,Boeing 777,On-Time
+QR963,Tokyo,Berlin,2024-05-31,15:41:11,Boeing 777,On-Time
+QR7930,New York,Doha,2024-01-24,11:26:01,Airbus A380,Delayed
+QR9600,London,Berlin,2024-01-14,00:41:33,Airbus A350,Canceled
+QR6715,London,Dubai,2024-02-02,13:48:17,Airbus A380,Delayed
+QR8504,Dubai,Sydney,2024-06-05,21:07:50,Airbus A350,On-Time
+QR4967,New York,Paris,2024-07-22,08:27:46,Airbus A380,Delayed
+QR833,Tokyo,New York,2024-09-19,05:46:00,Airbus A350,Delayed
+QR5243,Dubai,Berlin,2024-05-15,03:36:16,Boeing 777,Delayed
+QR848,Berlin,New York,2023-10-27,22:10:42,Airbus A350,On-Time
+QR5893,London,Doha,2024-04-12,16:13:34,Boeing 787,On-Time
+QR2489,Tokyo,Paris,2024-05-05,23:25:38,Airbus A380,Delayed
+QR4432,Sydney,New York,2024-04-26,16:08:01,Boeing 787,Canceled
+QR5866,Tokyo,London,2024-02-29,04:22:22,Boeing 787,On-Time
+QR1603,Paris,Sydney,2024-03-17,10:37:10,Airbus A380,On-Time
+QR9659,Tokyo,New York,2024-09-13,14:34:52,Airbus A350,Canceled
+QR9681,Sydney,Dubai,2023-10-29,16:08:19,Airbus A350,Canceled
+QR3055,Doha,London,2023-12-27,05:50:39,Airbus A350,Canceled
+QR7958,Dubai,London,2024-08-16,15:00:26,Airbus A380,Canceled
+QR3637,Sydney,London,2024-10-11,15:02:39,Boeing 777,Canceled
+QR6666,Doha,New York,2024-04-28,01:18:53,Boeing 777,On-Time
+QR3324,Dubai,Doha,2024-01-29,03:36:21,Boeing 787,Delayed
+QR9591,New York,Doha,2024-09-05,20:19:49,Airbus A350,On-Time
+QR3756,Sydney,Dubai,2024-10-05,22:54:13,Airbus A380,Delayed
+QR508,Berlin,Tokyo,2024-06-11,14:51:09,Airbus A380,On-Time
+QR4053,Sydney,New York,2024-09-07,02:44:13,Boeing 787,On-Time
+QR4015,Sydney,Paris,2024-06-02,02:16:58,Airbus A380,Canceled
+QR3788,Doha,Paris,2024-01-18,04:18:39,Boeing 777,Canceled
+QR4803,Paris,Sydney,2024-01-04,07:08:18,Boeing 777,Canceled
+QR8566,Paris,Sydney,2024-06-28,10:30:20,Airbus A350,On-Time
+QR4994,Tokyo,Berlin,2023-11-05,01:48:07,Boeing 777,Delayed
