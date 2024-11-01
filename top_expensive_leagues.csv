@@ -1,0 +1,701 @@
+League ID,League Name,Country,Sport,Revenue (USD),Average Player Salary (USD),Top Team,Total Teams,Founded Year,Viewership
+L001,Premier League,England,Football,5275330000.0,12080000.0,Liverpool,16,1886,485.9
+L002,Serie A,India,American Football,7088640000.0,6730000.0,Inter Milan,13,1977,135.01
+L003,IPL,England,American Football,7930520000.0,14360000.0,Chennai Super Kings,13,1979,157.49
+L004,La Liga,Spain,American Football,4972890000.0,13720000.0,Atletico Madrid,22,1999,245.71
+L005,Serie A,Italy,Basketball,6265740000.0,7450000.0,Juventus,16,1963,52.83
+L006,NFL,England,American Football,6230530000.0,1640000.0,New England Patriots,28,1924,107.82
+L007,La Liga,Spain,Basketball,7764560000.0,6670000.0,Real Madrid,22,1932,140.43
+L008,La Liga,Italy,American Football,7345940000.0,3430000.0,Real Madrid,10,1980,150.0
+L009,NBA,USA,American Football,3134960000.0,6730000.0,Los Angeles Lakers,21,1989,488.9
+L010,Bundesliga,Spain,Football,3498290000.0,3080000.0,Borussia Dortmund,29,1981,378.51
+L011,Bundesliga,India,Basketball,6989110000.0,13780000.0,Bayern Munich,20,1880,349.45
+L012,Serie A,France,Football,1540640000.0,1670000.0,Inter Milan,18,2013,315.42
+L013,IPL,Spain,American Football,3644620000.0,10230000.0,Chennai Super Kings,16,1958,374.06
+L014,NFL,Italy,American Football,7845970000.0,9440000.0,Green Bay Packers,18,1956,379.94
+L015,IPL,France,American Football,5012560000.0,2480000.0,Chennai Super Kings,12,1944,490.29
+L016,Ligue 1,Germany,Cricket,5064830000.0,14910000.0,Lyon,31,1893,259.39
+L017,La Liga,USA,American Football,6655720000.0,2150000.0,Atletico Madrid,19,2018,315.92
+L018,NBA,France,Football,3989320000.0,13480000.0,Miami Heat,23,1889,470.62
+L019,Bundesliga,India,Cricket,5922640000.0,7580000.0,RB Leipzig,13,1996,181.48
+L020,IPL,India,Basketball,2575200000.0,10800000.0,Mumbai Indians,31,1921,113.0
+L021,Ligue 1,India,Football,4147490000.0,5650000.0,Lyon,10,1895,343.04
+L022,NFL,Germany,Basketball,689460000.0,5000000.0,Green Bay Packers,13,1968,176.73
+L023,NBA,Italy,Cricket,6817730000.0,2360000.0,Miami Heat,17,1904,75.91
+L024,NBA,Germany,Football,6797150000.0,3710000.0,Miami Heat,29,1896,77.24
+L025,NFL,England,American Football,651960000.0,1520000.0,Green Bay Packers,21,1957,229.16
+L026,La Liga,Spain,Basketball,3391810000.0,9290000.0,Atletico Madrid,11,1897,241.97
+L027,IPL,Germany,Basketball,4922160000.0,3330000.0,Kolkata Knight Riders,12,1958,449.12
+L028,Premier League,France,Football,3507130000.0,3990000.0,Manchester City,23,1918,418.48
+L029,Ligue 1,Italy,Basketball,1563060000.0,8199999.999999999,Lyon,20,1901,479.87
+L030,NFL,England,American Football,3616740000.0,6240000.0,Dallas Cowboys,24,1980,360.19
+L031,IPL,Germany,Cricket,5011900000.0,13880000.0,Chennai Super Kings,27,2015,331.61
+L032,NFL,Italy,American Football,5560840000.0,4240000.0,New England Patriots,31,1999,90.55
+L033,Ligue 1,France,American Football,6872600000.0,5590000.0,Olympique Marseille,32,1949,304.11
+L034,Ligue 1,France,Football,2319580000.0,8720000.0,Olympique Marseille,11,1955,334.81
+L035,NBA,Spain,Football,824350000.0,13160000.0,Miami Heat,11,1986,107.43
+L036,Serie A,Germany,Football,2836530000.0,14080000.0,Juventus,22,1911,293.04
+L037,NBA,India,Cricket,1624450000.0,8350000.0,Los Angeles Lakers,26,1943,475.02
+L038,NBA,India,Football,1689450000.0,13720000.0,Los Angeles Lakers,24,1946,217.16
+L039,Premier League,India,Basketball,2476070000.0,13330000.0,Manchester City,18,1883,175.65
+L040,NBA,India,American Football,2252390000.0,7970000.0,Golden State Warriors,18,1951,293.34
+L041,Premier League,England,Cricket,2959100000.0,5760000.0,Manchester City,31,2008,93.55
+L042,NBA,India,Basketball,1308600000.0,6510000.0,Miami Heat,27,1927,316.81
+L043,NFL,Italy,Football,6685600000.0,8170000.0,Green Bay Packers,16,1952,200.97
+L044,Serie A,Spain,American Football,3044080000.0,1420000.0,Inter Milan,15,1934,64.18
+L045,Premier League,Germany,American Football,2868650000.0,11190000.0,Manchester United,23,1959,29.8
+L046,Ligue 1,Germany,Football,5121010000.0,4340000.0,Lyon,31,1950,333.14
+L047,NFL,USA,American Football,2782070000.0,4179999.9999999995,Dallas Cowboys,14,1957,246.72
+L048,La Liga,England,American Football,1132480000.0,10140000.0,Real Madrid,18,2004,147.84
+L049,NFL,USA,Football,666960000.0,2270000.0,Green Bay Packers,16,2023,131.75
+L050,Premier League,Spain,Basketball,4564600000.0,14890000.0,Liverpool,14,1921,150.16
+L051,La Liga,Germany,Football,2925630000.0,5550000.0,Barcelona,27,1976,183.95
+L052,NFL,England,Football,1404130000.0,14960000.0,Green Bay Packers,26,1944,337.81
+L053,Bundesliga,Germany,Cricket,3324500000.0,11760000.0,Bayern Munich,29,1950,325.95
+L054,La Liga,England,Cricket,1013260000.0,8420000.0,Barcelona,26,1919,233.01
+L055,Ligue 1,Spain,Basketball,5813670000.0,10990000.0,Paris Saint-Germain,26,1920,329.48
+L056,NFL,France,American Football,2225970000.0,1010000.0,New England Patriots,21,1958,76.76
+L057,Bundesliga,England,Basketball,5241970000.0,11220000.0,Borussia Dortmund,12,1982,2.97
+L058,NFL,Italy,Football,7648520000.0,7650000.0,Dallas Cowboys,12,1910,79.76
+L059,Premier League,Italy,Football,3581980000.0,2800000.0,Liverpool,30,1948,410.71
+L060,Ligue 1,Italy,Basketball,7491060000.0,12470000.0,Olympique Marseille,23,1957,416.47
+L061,Ligue 1,Germany,Basketball,5048430000.0,11620000.0,Paris Saint-Germain,15,1890,488.74
+L062,Ligue 1,India,Basketball,2869690000.0,1950000.0,Olympique Marseille,25,1932,159.08
+L063,NBA,Italy,Cricket,5820040000.0,5350000.0,Los Angeles Lakers,13,1940,274.57
+L064,Bundesliga,France,Football,7904150000.0,3870000.0,RB Leipzig,26,2018,154.01
+L065,Premier League,USA,American Football,1661500000.0,3720000.0,Liverpool,31,1926,321.56
+L066,NBA,India,Basketball,2897830000.0,2580000.0,Golden State Warriors,29,1947,286.77
+L067,NBA,Italy,Cricket,2554600000.0,13780000.0,Miami Heat,11,1909,449.0
+L068,Premier League,Italy,Cricket,3245750000.0,12190000.0,Manchester City,11,1987,370.56
+L069,Premier League,USA,Basketball,5250420000.0,3880000.0,Manchester United,16,1922,332.84
+L070,NBA,France,Basketball,894690000.0,6260000.0,Golden State Warriors,14,2010,110.15
+L071,Bundesliga,India,American Football,3613110000.0,14450000.0,Borussia Dortmund,22,2015,109.38
+L072,Serie A,Germany,American Football,1170200000.0,1330000.0,Inter Milan,13,1933,239.03
+L073,Bundesliga,Italy,Basketball,5313910000.0,10080000.0,RB Leipzig,13,1913,324.15
+L074,La Liga,Italy,Football,3682720000.0,5480000.0,Real Madrid,11,1885,143.4
+L075,Bundesliga,India,Football,6495300000.0,10710000.0,Borussia Dortmund,27,1990,59.15
+L076,Serie A,India,Football,5641640000.0,11420000.0,Inter Milan,14,1974,388.95
+L077,Serie A,Italy,American Football,681650000.0,10970000.0,Juventus,12,1909,361.26
+L078,Serie A,England,Basketball,636510000.0,7510000.0,AC Milan,15,1914,293.28
+L079,Ligue 1,Germany,Cricket,3309620000.0,7970000.0,Paris Saint-Germain,21,1941,253.34
+L080,Bundesliga,France,Football,7641410000.0,2950000.0,RB Leipzig,32,1948,437.44
+L081,Serie A,Italy,Cricket,4653680000.0,2950000.0,Inter Milan,21,1986,116.68
+L082,La Liga,Germany,Basketball,7044470000.0,2210000.0,Barcelona,19,1931,33.83
+L083,Bundesliga,Spain,Football,3629650000.0,12580000.0,RB Leipzig,26,1902,108.47
+L084,Bundesliga,India,Cricket,2748330000.0,14060000.0,Borussia Dortmund,27,1951,245.12
+L085,La Liga,USA,Basketball,6674380000.0,13910000.0,Real Madrid,11,1943,138.4
+L086,NBA,Spain,Basketball,1435250000.0,9260000.0,Golden State Warriors,17,1994,226.27
+L087,Serie A,Germany,American Football,3150970000.0,2300000.0,AC Milan,13,2008,162.39
+L088,Bundesliga,India,Cricket,6398240000.0,11700000.0,RB Leipzig,32,1917,235.87
+L089,NBA,England,Football,6844670000.0,9150000.0,Miami Heat,24,2020,249.58
+L090,Ligue 1,India,Football,7546220000.0,1450000.0,Olympique Marseille,24,1928,354.24
+L091,Premier League,England,American Football,1520280000.0,11450000.0,Manchester United,19,1904,2.69
+L092,Ligue 1,England,Football,7023660000.0,14490000.0,Paris Saint-Germain,29,1955,467.21
+L093,NBA,India,Cricket,2647540000.0,5520000.0,Miami Heat,11,1968,187.25
+L094,Serie A,France,Basketball,5777730000.0,2170000.0,Inter Milan,11,1920,199.1
+L095,NBA,Spain,American Football,7661390000.0,9320000.0,Golden State Warriors,11,2004,261.39
+L096,Serie A,Italy,American Football,2547720000.0,7960000.0,Inter Milan,11,2020,269.68
+L097,NFL,India,Football,1406030000.0,3810000.0,Dallas Cowboys,11,1898,321.19
+L098,NFL,France,Cricket,7050350000.0,3300000.0,Green Bay Packers,21,1963,461.9
+L099,Bundesliga,Germany,Cricket,7609280000.0,4970000.0,Borussia Dortmund,15,1884,319.68
+L100,La Liga,France,American Football,2499000000.0,12140000.0,Barcelona,24,1897,343.81
+L101,Bundesliga,Italy,Cricket,2053560000.0,13120000.0,Bayern Munich,22,1978,100.48
+L102,IPL,England,Football,658860000.0,14240000.0,Kolkata Knight Riders,23,1927,227.4
+L103,Bundesliga,USA,American Football,2589120000.0,11170000.0,Bayern Munich,18,1880,12.85
+L104,NFL,England,American Football,1885980000.0,3130000.0,Dallas Cowboys,28,1940,158.2
+L105,Premier League,Spain,American Football,2899800000.0,10250000.0,Manchester United,11,1941,395.18
+L106,Premier League,France,American Football,5947860000.0,11250000.0,Manchester United,17,1992,30.92
+L107,Ligue 1,Germany,Basketball,3775110000.0,11300000.0,Paris Saint-Germain,31,1923,357.99
+L108,IPL,England,Football,4296610000.0,10660000.0,Kolkata Knight Riders,31,2001,371.82
+L109,Bundesliga,India,Cricket,5351020000.0,12530000.0,Bayern Munich,26,2020,252.4
+L110,IPL,USA,Cricket,1624100000.0,9930000.0,Mumbai Indians,12,1885,59.42
+L111,La Liga,Germany,Basketball,4678220000.0,5910000.0,Atletico Madrid,28,1956,390.39
+L112,La Liga,England,Basketball,3931190000.0,1910000.0,Barcelona,18,1995,253.93
+L113,Premier League,Germany,Basketball,2345010000.0,5140000.0,Manchester City,11,1972,356.89
+L114,La Liga,Italy,Football,4906430000.0,5760000.0,Barcelona,21,1938,51.7
+L115,Bundesliga,USA,Football,6269510000.0,1390000.0,RB Leipzig,15,1933,195.98
+L116,Ligue 1,Spain,Football,4684710000.0,4090000.0,Paris Saint-Germain,18,1934,258.92
+L117,Premier League,India,Cricket,2061540000.0,9510000.0,Manchester United,28,2011,404.57
+L118,IPL,USA,Cricket,5926290000.0,11000000.0,Chennai Super Kings,30,1970,456.83
+L119,IPL,France,Basketball,2628280000.0,9160000.0,Kolkata Knight Riders,17,1985,342.2
+L120,NFL,USA,Cricket,7936140000.0,4430000.0,New England Patriots,19,1981,396.76
+L121,NFL,England,Football,6270550000.0,13120000.0,Dallas Cowboys,21,1972,370.12
+L122,Serie A,Germany,Basketball,810000000.0,6790000.0,Inter Milan,30,2004,65.49
+L123,Serie A,Spain,Basketball,3073690000.0,13920000.0,Juventus,16,1942,60.67
+L124,Ligue 1,France,Football,5813230000.0,8170000.0,Lyon,20,1961,116.1
+L125,Ligue 1,France,American Football,909240000.0,7140000.0,Lyon,20,1965,184.79
+L126,Serie A,Germany,Football,1576340000.0,7670000.0,AC Milan,15,1910,317.58
+L127,IPL,Spain,American Football,7889510000.0,12220000.0,Kolkata Knight Riders,11,1964,485.55
+L128,La Liga,USA,Football,7348300000.0,12440000.0,Barcelona,13,1929,141.65
+L129,Bundesliga,Spain,Cricket,7480690000.0,7400000.0,RB Leipzig,31,1998,468.68
+L130,NBA,USA,Football,3425710000.0,9370000.0,Golden State Warriors,20,1938,263.2
+L131,NFL,India,American Football,7125350000.0,6920000.0,Dallas Cowboys,30,1898,46.44
+L132,Bundesliga,India,American Football,6539030000.0,10990000.0,Bayern Munich,13,1931,91.63
+L133,La Liga,Italy,Football,4945050000.0,6660000.0,Atletico Madrid,13,1966,476.81
+L134,NBA,Spain,Basketball,5346060000.0,3640000.0,Golden State Warriors,22,1930,308.23
+L135,Premier League,Spain,Cricket,5426070000.0,13500000.0,Liverpool,19,1899,93.26
+L136,IPL,France,American Football,5249830000.0,2750000.0,Chennai Super Kings,22,1986,425.35
+L137,NBA,England,Basketball,4428640000.0,2260000.0,Golden State Warriors,22,1985,68.14
+L138,La Liga,Germany,Football,2656880000.0,9300000.0,Real Madrid,27,2017,370.96
+L139,La Liga,France,Cricket,7229390000.0,11070000.0,Real Madrid,25,1912,141.98
+L140,La Liga,Italy,Cricket,4835940000.0,3650000.0,Barcelona,30,1923,188.37
+L141,NBA,Spain,Football,7881370000.0,14940000.0,Golden State Warriors,25,1960,113.44
+L142,Bundesliga,France,Basketball,4965230000.0,13920000.0,Borussia Dortmund,20,2011,129.43
+L143,Serie A,England,Basketball,6239480000.0,1540000.0,AC Milan,29,2017,464.58
+L144,NFL,Italy,American Football,4071780000.0,9430000.0,Dallas Cowboys,25,1902,218.87
+L145,Serie A,France,Basketball,5041970000.0,13200000.0,AC Milan,26,1953,266.04
+L146,NFL,USA,Basketball,7897380000.0,14600000.0,Dallas Cowboys,23,2009,496.88
+L147,Serie A,Germany,Cricket,7191230000.0,2330000.0,Inter Milan,16,1992,220.18
+L148,IPL,Germany,Football,1120820000.0,13340000.0,Mumbai Indians,12,1907,227.06
+L149,Premier League,Germany,American Football,5588030000.0,11550000.0,Manchester United,12,1952,331.08
+L150,La Liga,France,Basketball,7107150000.0,10620000.0,Barcelona,29,2010,146.71
+L151,Premier League,Spain,Basketball,5070050000.0,3690000.0,Liverpool,11,1908,283.35
+L152,Ligue 1,England,Football,7222210000.0,7250000.0,Lyon,28,1933,407.26
+L153,La Liga,Italy,Basketball,4820630000.0,7370000.0,Real Madrid,14,1924,271.62
+L154,Premier League,France,Basketball,4385310000.0,7280000.0,Manchester City,26,1984,10.36
+L155,La Liga,England,Football,5210530000.0,1220000.0,Real Madrid,10,1904,74.22
+L156,NBA,England,Basketball,4963470000.0,4120000.0,Golden State Warriors,19,1897,92.26
+L157,NFL,USA,American Football,7438720000.0,13770000.0,New England Patriots,29,1951,137.24
+L158,NBA,USA,Football,1166320000.0,13320000.0,Los Angeles Lakers,17,1941,429.85
+L159,NFL,Spain,Basketball,695140000.0,14940000.0,New England Patriots,26,1957,64.72
+L160,Serie A,England,American Football,5638740000.0,13080000.0,Juventus,29,1960,196.66
+L161,Premier League,Germany,American Football,2306760000.0,11130000.0,Manchester City,20,2017,187.89
+L162,Serie A,Italy,Basketball,827490000.0,14920000.0,Juventus,28,1988,285.23
+L163,Ligue 1,Germany,American Football,747550000.0,5440000.0,Olympique Marseille,15,1881,267.42
+L164,Ligue 1,USA,Basketball,1935590000.0,5620000.0,Paris Saint-Germain,16,1884,79.21
+L165,La Liga,India,Football,1037030000.0,1810000.0,Real Madrid,12,1947,20.56
+L166,NBA,Germany,Football,5674670000.0,1090000.0,Golden State Warriors,17,1936,499.83
+L167,Ligue 1,France,Football,6281520000.0,14810000.0,Lyon,26,2009,100.86
+L168,NBA,Italy,Basketball,2952050000.0,1490000.0,Los Angeles Lakers,15,1925,130.95
+L169,La Liga,Spain,Basketball,2553560000.0,5580000.0,Barcelona,23,1960,138.14
+L170,NFL,India,American Football,853830000.0,6630000.0,Dallas Cowboys,19,2017,68.33
+L171,IPL,England,American Football,3935390000.0,9070000.0,Chennai Super Kings,28,2020,430.28
+L172,IPL,India,Cricket,4475880000.0,10970000.0,Mumbai Indians,16,2023,160.64
+L173,Premier League,Spain,Football,1399070000.0,3760000.0,Manchester City,18,1941,324.56
+L174,Bundesliga,England,Football,7527660000.0,5900000.0,Bayern Munich,27,1884,90.18
+L175,Bundesliga,France,Basketball,5695510000.0,8840000.0,Borussia Dortmund,16,1939,203.97
+L176,NBA,France,Basketball,2435570000.0,7790000.0,Los Angeles Lakers,29,2020,376.35
+L177,Bundesliga,Spain,Football,1064339999.9999999,13030000.0,Borussia Dortmund,26,1911,420.09
+L178,Serie A,Germany,Football,6462710000.0,13150000.0,AC Milan,10,1974,222.59
+L179,Serie A,France,Football,7147520000.0,2440000.0,AC Milan,31,1909,338.09
+L180,NFL,Italy,Cricket,670180000.0,2200000.0,New England Patriots,31,1900,470.59
+L181,Ligue 1,India,Football,2624060000.0,6200000.0,Lyon,15,1996,137.49
+L182,Serie A,Italy,Basketball,6138600000.0,11820000.0,Inter Milan,21,1971,291.27
+L183,IPL,Germany,Cricket,1623100000.0,9650000.0,Mumbai Indians,29,1928,273.53
+L184,NBA,India,American Football,3513490000.0,5250000.0,Miami Heat,25,1901,61.75
+L185,Bundesliga,England,American Football,3570450000.0,2870000.0,Borussia Dortmund,21,1982,169.35
+L186,Premier League,Germany,Cricket,4481760000.0,12330000.0,Manchester City,15,2003,377.53
+L187,NBA,USA,American Football,4017470000.0,4710000.0,Golden State Warriors,15,1903,161.69
+L188,Serie A,USA,Basketball,7540950000.0,13950000.0,Juventus,14,1885,472.04
+L189,Ligue 1,Germany,American Football,2169770000.0,4830000.0,Olympique Marseille,29,2016,296.05
+L190,Serie A,Germany,Football,4242250000.0,14710000.0,Juventus,14,2013,315.78
+L191,IPL,France,American Football,7952640000.0,5730000.0,Mumbai Indians,30,1963,108.77
+L192,Bundesliga,England,Football,2390830000.0,10550000.0,RB Leipzig,13,1948,430.61
+L193,La Liga,Italy,American Football,5373800000.0,7070000.0,Real Madrid,12,1950,146.55
+L194,Bundesliga,Italy,Cricket,6045500000.0,2009999.9999999998,RB Leipzig,18,1941,168.01
+L195,Premier League,England,Cricket,1857370000.0,4410000.0,Manchester United,16,1915,292.42
+L196,NFL,England,Football,4206800000.0,11090000.0,New England Patriots,16,2020,24.8
+L197,Premier League,Spain,Cricket,4347700000.0,7680000.0,Manchester United,22,1965,400.49
+L198,Ligue 1,India,Cricket,3190740000.0,6940000.0,Paris Saint-Germain,18,2022,497.26
+L199,IPL,Spain,Cricket,6690710000.0,8920000.0,Chennai Super Kings,30,1962,493.08
+L200,La Liga,USA,Basketball,2300250000.0,10620000.0,Real Madrid,27,1967,27.95
+L201,Serie A,USA,American Football,609520000.0,7430000.0,Juventus,19,1925,364.38
+L202,Serie A,Spain,Cricket,4965710000.0,6190000.0,Juventus,10,2020,60.82
+L203,NBA,Spain,American Football,630040000.0,6780000.0,Los Angeles Lakers,29,1941,82.62
+L204,Bundesliga,England,Football,3366780000.0,10530000.0,RB Leipzig,28,1895,163.14
+L205,NFL,India,Basketball,5955960000.0,6140000.0,New England Patriots,25,1989,118.26
+L206,Premier League,Spain,Basketball,6953340000.0,3880000.0,Manchester City,24,1988,337.08
+L207,La Liga,USA,Football,7585880000.0,14460000.0,Atletico Madrid,19,2006,34.51
+L208,Bundesliga,USA,Basketball,5831260000.0,7030000.0,Bayern Munich,18,1937,171.4
+L209,NFL,England,American Football,635100000.0,7290000.0,Green Bay Packers,29,1965,135.1
+L210,Premier League,India,American Football,1996770000.0,8010000.0,Manchester United,26,1998,69.22
+L211,IPL,India,Cricket,6301690000.0,4340000.0,Mumbai Indians,27,1984,445.27
+L212,NFL,Germany,Cricket,2088510000.0000002,7450000.0,Green Bay Packers,32,1921,343.48
+L213,IPL,USA,American Football,4542710000.0,12230000.0,Chennai Super Kings,29,1989,242.57
+L214,Serie A,Germany,Basketball,5125240000.0,2360000.0,AC Milan,32,1962,453.17
+L215,Ligue 1,England,Basketball,4955840000.0,7780000.0,Lyon,16,1918,320.81
+L216,Bundesliga,Italy,Cricket,5950880000.0,6460000.0,Bayern Munich,29,2011,386.36
+L217,Bundesliga,India,Cricket,932290000.0,12920000.0,Borussia Dortmund,31,1881,242.56
+L218,La Liga,Germany,American Football,6449970000.0,2230000.0,Real Madrid,19,1904,18.65
+L219,NBA,Germany,Basketball,714640000.0,13790000.0,Los Angeles Lakers,11,1927,485.63
+L220,Premier League,France,American Football,2456930000.0,8330000.0,Manchester City,32,1957,266.42
+L221,La Liga,France,Cricket,4986530000.0,13720000.0,Atletico Madrid,29,1987,338.78
+L222,NBA,France,American Football,2991500000.0,8320000.0,Miami Heat,28,2000,74.75
+L223,Serie A,USA,Football,3455950000.0,2910000.0,Inter Milan,12,1893,19.79
+L224,La Liga,USA,Football,7913880000.0,2260000.0,Barcelona,29,1896,311.92
+L225,Serie A,Germany,American Football,2600680000.0,4370000.0,Inter Milan,26,1952,376.94
+L226,Premier League,England,Basketball,2424480000.0,13930000.0,Manchester United,20,1920,368.21
+L227,Serie A,France,Football,3716750000.0,10260000.0,AC Milan,10,1913,466.31
+L228,Serie A,Spain,Basketball,5266070000.0,14510000.0,Inter Milan,32,1961,443.42
+L229,Bundesliga,India,Basketball,6388100000.0,12850000.0,Bayern Munich,28,1936,217.57
+L230,Premier League,England,American Football,3324490000.0,4820000.0,Manchester United,30,1923,447.45
+L231,NFL,Germany,Cricket,4537990000.0,2340000.0,Dallas Cowboys,31,1901,9.39
+L232,La Liga,India,Basketball,7579210000.0,3920000.0,Real Madrid,27,1937,222.11
+L233,Serie A,Italy,Cricket,3568920000.0,1650000.0,Inter Milan,21,2004,343.04
+L234,Bundesliga,India,American Football,7892690000.0,6110000.0,Bayern Munich,19,1969,108.62
+L235,IPL,Spain,Football,5038810000.0,14380000.0,Kolkata Knight Riders,16,1911,301.46
+L236,Premier League,Germany,Cricket,7352650000.0,5640000.0,Manchester United,28,1919,2.28
+L237,Ligue 1,Italy,Football,3356670000.0,1060000.0,Lyon,32,1997,312.71
+L238,NBA,Spain,Cricket,1609750000.0,7060000.0,Golden State Warriors,31,1904,354.84
+L239,Serie A,Spain,Football,5651280000.0,8910000.0,Inter Milan,14,1965,42.09
+L240,Serie A,Spain,American Football,5396860000.0,1160000.0,Inter Milan,28,1881,227.99
+L241,IPL,India,Basketball,4771040000.0,5830000.0,Chennai Super Kings,15,1917,136.7
+L242,NBA,Italy,Football,7435750000.0,6780000.0,Los Angeles Lakers,16,1985,499.03
+L243,Serie A,India,Football,7271420000.0,6650000.0,Juventus,22,1986,425.61
+L244,NBA,Italy,Cricket,3084880000.0,5640000.0,Miami Heat,19,1888,426.28
+L245,La Liga,Spain,Cricket,3931460000.0,2660000.0,Real Madrid,22,2021,333.92
+L246,Bundesliga,Germany,Football,6989240000.0,12200000.0,Bayern Munich,19,1964,413.23
+L247,IPL,Germany,Cricket,2151300000.0,9050000.0,Chennai Super Kings,16,1931,318.77
+L248,Bundesliga,Spain,Cricket,6214410000.0,13360000.0,RB Leipzig,10,1996,171.07
+L249,IPL,India,Basketball,7766160000.0,8690000.0,Mumbai Indians,23,1931,114.89
+L250,IPL,Italy,Football,3192010000.0,9170000.0,Mumbai Indians,18,1914,306.0
+L251,NBA,England,Football,6646250000.0,6610000.0,Los Angeles Lakers,27,1944,313.75
+L252,NBA,France,Cricket,5847470000.0,12490000.0,Los Angeles Lakers,25,1902,446.48
+L253,Bundesliga,Spain,Cricket,2646100000.0,2380000.0,Borussia Dortmund,26,1997,115.23
+L254,Premier League,Italy,Football,2454860000.0,8090000.0,Liverpool,12,2001,402.17
+L255,Premier League,India,Football,3637170000.0,14260000.0,Manchester City,16,1928,278.18
+L256,Serie A,Germany,Football,3923090000.0,6360000.0,Juventus,10,1897,225.38
+L257,Bundesliga,France,Football,7495320000.0,4630000.0,Bayern Munich,11,2001,89.43
+L258,Serie A,USA,Basketball,4812380000.0,5580000.0,Juventus,28,1958,176.01
+L259,IPL,USA,Cricket,2747870000.0,3470000.0,Mumbai Indians,22,1990,160.9
+L260,Serie A,Germany,Cricket,5053700000.0,8760000.0,Inter Milan,20,1910,105.22
+L261,Ligue 1,India,Cricket,5585720000.0,9260000.0,Paris Saint-Germain,30,1949,220.81
+L262,Serie A,Spain,Football,7764050000.0,10090000.0,AC Milan,29,1942,192.58
+L263,Premier League,France,Football,2320200000.0,14070000.0,Manchester City,29,1993,290.74
+L264,NBA,England,American Football,6681890000.0,10160000.0,Miami Heat,22,1956,211.83
+L265,La Liga,Italy,Football,2052150000.0,4160000.0,Real Madrid,19,1898,414.41
+L266,Bundesliga,Germany,American Football,3189530000.0,14220000.0,Bayern Munich,17,1939,11.07
+L267,Ligue 1,Germany,Cricket,7111150000.0,12100000.0,Olympique Marseille,23,1984,489.28
+L268,NFL,England,Cricket,3152920000.0,3270000.0,New England Patriots,29,1973,378.48
+L269,Serie A,England,Basketball,7308870000.0,5410000.0,Juventus,14,1882,128.4
+L270,IPL,England,Football,5801260000.0,14410000.0,Mumbai Indians,17,1902,82.29
+L271,Serie A,France,Football,2460400000.0,13790000.0,Juventus,16,1935,403.2
+L272,Premier League,Spain,American Football,7071540000.0,13750000.0,Manchester United,23,1915,477.28
+L273,Serie A,Italy,Basketball,5749980000.0,1480000.0,Juventus,12,1996,106.35
+L274,La Liga,Spain,American Football,7984190000.0,13740000.0,Barcelona,30,1951,367.95
+L275,Serie A,India,American Football,2188590000.0,7750000.0,AC Milan,17,1973,325.47
+L276,NFL,USA,American Football,2561130000.0,2860000.0,Green Bay Packers,17,1951,320.78
+L277,NFL,USA,American Football,6342580000.0,3840000.0,Green Bay Packers,26,1959,248.5
+L278,Bundesliga,Spain,Basketball,6234380000.0,13380000.0,Borussia Dortmund,21,1921,226.6
+L279,NFL,Germany,Basketball,5747440000.0,4010000.0,Green Bay Packers,11,2001,342.35
+L280,NFL,Germany,Cricket,6844000000.0,3590000.0,New England Patriots,19,2007,474.01
+L281,Bundesliga,Italy,American Football,7640180000.0,12290000.0,Borussia Dortmund,24,1979,278.79
+L282,Bundesliga,England,American Football,3144290000.0,11440000.0,Bayern Munich,22,1960,457.58
+L283,IPL,Spain,American Football,6090130000.0,1860000.0,Chennai Super Kings,25,1988,498.63
+L284,NFL,Germany,Basketball,4157290000.0,14850000.0,Dallas Cowboys,15,1901,393.28
+L285,IPL,USA,American Football,4470070000.0,9010000.0,Mumbai Indians,23,1939,327.43
+L286,NBA,England,Football,6368360000.0,5290000.0,Los Angeles Lakers,10,1900,248.6
+L287,Ligue 1,Germany,Football,640890000.0,4190000.0000000005,Lyon,32,1950,293.05
+L288,NBA,Germany,American Football,6529050000.0,12770000.0,Golden State Warriors,13,1957,17.92
+L289,Premier League,England,American Football,6249800000.0,9100000.0,Manchester City,18,1969,383.53
+L290,Serie A,France,American Football,3327580000.0,8230000.0,Inter Milan,22,1971,48.11
+L291,La Liga,Germany,Basketball,6716610000.0,12670000.0,Barcelona,29,1932,307.96
+L292,IPL,USA,Basketball,6646170000.0,7480000.0,Kolkata Knight Riders,16,1950,431.53
+L293,La Liga,India,Basketball,4565360000.0,3600000.0,Real Madrid,14,2000,323.31
+L294,Bundesliga,Germany,Football,3054850000.0,10040000.0,RB Leipzig,16,1919,24.07
+L295,NFL,India,Basketball,925690000.0,9670000.0,New England Patriots,11,2015,376.37
+L296,NBA,England,Basketball,5201500000.0,5890000.0,Golden State Warriors,11,1943,122.07
+L297,IPL,Germany,Football,6664020000.0,1150000.0,Kolkata Knight Riders,29,1900,387.1
+L298,IPL,Germany,American Football,2288040000.0,10530000.0,Mumbai Indians,11,1973,404.49
+L299,Ligue 1,England,Football,2734450000.0,10260000.0,Paris Saint-Germain,19,1998,263.03
+L300,La Liga,Italy,Basketball,3991650000.0,2750000.0,Barcelona,20,1996,455.12
+L301,IPL,Italy,Cricket,7997000000.0,5670000.0,Chennai Super Kings,20,1947,359.82
+L302,Bundesliga,India,American Football,2498220000.0,1160000.0,RB Leipzig,28,1941,371.03
+L303,Ligue 1,England,Cricket,6685600000.0,8640000.0,Paris Saint-Germain,13,1881,58.17
+L304,Premier League,India,Basketball,952180000.0,6120000.0,Manchester City,15,1969,265.77
+L305,Premier League,India,Football,7354040000.0,7960000.0,Liverpool,15,1973,393.24
+L306,IPL,England,Basketball,2787690000.0,12200000.0,Kolkata Knight Riders,13,1911,226.06
+L307,La Liga,France,Football,4905440000.0,9170000.0,Real Madrid,11,2020,93.0
+L308,La Liga,Spain,Cricket,6271190000.0,13000000.0,Barcelona,30,1887,488.14
+L309,IPL,Spain,Basketball,1656360000.0,7940000.0,Kolkata Knight Riders,19,1955,221.19
+L310,NFL,Italy,Football,7328110000.0,9190000.0,New England Patriots,23,1976,456.93
+L311,NBA,USA,Basketball,1848320000.0,12530000.0,Los Angeles Lakers,18,1880,444.84
+L312,La Liga,USA,Basketball,2402480000.0,4490000.0,Atletico Madrid,30,1925,243.4
+L313,NBA,Spain,American Football,6895420000.0,7480000.0,Los Angeles Lakers,16,1933,122.1
+L314,Ligue 1,France,Cricket,6669270000.0,6680000.0,Paris Saint-Germain,18,1993,130.43
+L315,IPL,India,Cricket,2923300000.0,2420000.0,Mumbai Indians,10,1990,60.5
+L316,NBA,Italy,Cricket,1559120000.0,8710000.0,Los Angeles Lakers,21,1908,120.21
+L317,La Liga,France,Cricket,3587870000.0,6940000.0,Real Madrid,11,2013,259.96
+L318,La Liga,France,Cricket,1212540000.0,8630000.0,Barcelona,11,1918,282.07
+L319,NFL,France,Football,7137540000.0,3390000.0,Dallas Cowboys,27,2005,114.98
+L320,NFL,England,Cricket,4471060000.0,13680000.0,New England Patriots,24,1882,253.1
+L321,Bundesliga,England,American Football,6428670000.0,4560000.0,Bayern Munich,20,2020,125.84
+L322,La Liga,USA,Football,4588480000.0,13610000.0,Real Madrid,27,1969,383.33
+L323,Premier League,England,Football,5367230000.0,1920000.0,Manchester City,31,1974,377.94
+L324,Premier League,France,American Football,4779420000.0,13170000.0,Liverpool,18,1890,78.1
+L325,IPL,Germany,Basketball,4962110000.0,3640000.0,Kolkata Knight Riders,27,1894,461.28
+L326,La Liga,France,Basketball,2318830000.0,6730000.0,Real Madrid,26,2005,110.01
+L327,Premier League,Italy,American Football,7589380000.0,13590000.0,Manchester City,21,1966,462.12
+L328,IPL,Germany,Basketball,4910930000.0,4820000.0,Chennai Super Kings,16,1968,44.98
+L329,Ligue 1,France,Cricket,7269680000.0,3340000.0,Olympique Marseille,19,2013,13.93
+L330,Ligue 1,Italy,Cricket,6429340000.0,1570000.0,Olympique Marseille,32,1991,372.25
+L331,NBA,Italy,Football,3087750000.0,5370000.0,Golden State Warriors,26,2003,179.62
+L332,Bundesliga,Germany,Football,4665630000.0,12510000.0,RB Leipzig,15,2022,294.33
+L333,La Liga,India,Basketball,5222130000.0,12130000.0,Atletico Madrid,18,1990,423.9
+L334,Bundesliga,Italy,Cricket,7488140000.0,7470000.0,Bayern Munich,22,1948,479.93
+L335,Serie A,USA,Football,4088190000.0,12860000.0,Inter Milan,12,2012,416.69
+L336,Serie A,France,Basketball,6414230000.0,3500000.0,Juventus,10,1886,225.57
+L337,La Liga,England,American Football,4135939999.9999995,8910000.0,Atletico Madrid,22,1976,284.31
+L338,IPL,Spain,Basketball,2858530000.0,1860000.0,Mumbai Indians,12,1973,452.91
+L339,Bundesliga,Italy,Basketball,1040450000.0,14160000.0,RB Leipzig,30,1948,350.86
+L340,Premier League,England,Basketball,7594170000.0,10680000.0,Manchester City,32,2018,287.52
+L341,Serie A,India,Cricket,4289819999.9999995,11480000.0,Inter Milan,11,2015,85.75
+L342,Serie A,Spain,Football,5995700000.0,2820000.0,Juventus,15,1930,436.05
+L343,La Liga,Italy,American Football,4854920000.0,7200000.0,Barcelona,12,1948,182.3
+L344,La Liga,USA,Basketball,7115470000.0,13800000.0,Barcelona,22,1891,18.96
+L345,IPL,Spain,Basketball,5168240000.0,13030000.0,Kolkata Knight Riders,12,1901,167.21
+L346,Serie A,Germany,Cricket,3679660000.0,2610000.0,Inter Milan,21,2016,55.71
+L347,Serie A,Italy,Cricket,635760000.0,5290000.0,Juventus,15,1943,387.66
+L348,NBA,India,American Football,2317510000.0,11620000.0,Miami Heat,12,1982,346.15
+L349,Ligue 1,India,Cricket,3840440000.0,13850000.0,Paris Saint-Germain,13,2005,16.47
+L350,Ligue 1,England,American Football,1032140000.0000001,9740000.0,Olympique Marseille,13,2014,225.18
+L351,Ligue 1,Germany,Football,5247640000.0,3460000.0,Paris Saint-Germain,22,2008,317.67
+L352,IPL,Germany,Basketball,1324110000.0,2160000.0,Kolkata Knight Riders,12,1927,446.91
+L353,IPL,Spain,Basketball,6525940000.0,8279999.999999999,Kolkata Knight Riders,27,1934,401.79
+L354,IPL,Spain,Basketball,558880000.0,2830000.0,Chennai Super Kings,10,1989,468.27
+L355,Serie A,Germany,Cricket,7621940000.0,5590000.0,Inter Milan,17,1997,263.65
+L356,NFL,England,Cricket,4671130000.0,9670000.0,Green Bay Packers,31,1915,148.77
+L357,Serie A,France,Cricket,918280000.0,6060000.0,Juventus,11,1909,273.37
+L358,Bundesliga,USA,Cricket,2470300000.0,6540000.0,Bayern Munich,32,1891,349.8
+L359,Premier League,England,Basketball,2868910000.0,8780000.0,Manchester City,32,2012,50.66
+L360,NFL,Italy,Cricket,5335780000.0,6420000.0,Green Bay Packers,29,1923,304.08
+L361,NBA,Germany,Cricket,5423780000.0,4950000.0,Golden State Warriors,19,1930,115.64
+L362,Premier League,France,American Football,7656100000.0,8970000.0,Manchester City,17,1954,245.5
+L363,IPL,Spain,Basketball,7454020000.0,14510000.0,Chennai Super Kings,19,1907,189.95
+L364,NFL,India,American Football,1409640000.0,4730000.0,Dallas Cowboys,20,1962,235.5
+L365,IPL,USA,Basketball,2821950000.0,8890000.0,Mumbai Indians,18,1995,351.1
+L366,La Liga,Spain,Cricket,559300000.0,12130000.0,Atletico Madrid,22,1956,190.48
+L367,Premier League,Italy,Football,4030860000.0,13070000.0,Manchester City,18,1954,389.63
+L368,Serie A,Germany,Cricket,4158660000.0,2900000.0,Inter Milan,29,1888,459.1
+L369,IPL,India,American Football,1879010000.0,8610000.0,Kolkata Knight Riders,12,1902,171.04
+L370,Premier League,Germany,Football,7980880000.0,8070000.0,Manchester City,27,1909,243.43
+L371,Serie A,Italy,American Football,1991320000.0,9150000.0,AC Milan,27,1932,376.29
+L372,IPL,Spain,Cricket,626550000.0,8010000.0,Kolkata Knight Riders,24,1901,456.41
+L373,Bundesliga,Italy,Cricket,7440520000.0,3690000.0,RB Leipzig,12,2003,70.4
+L374,IPL,England,American Football,7925020000.0,6410000.0,Chennai Super Kings,19,1882,400.22
+L375,Bundesliga,England,Football,1273870000.0,7400000.0,Borussia Dortmund,25,1967,462.04
+L376,NBA,Italy,Basketball,1821520000.0,11580000.0,Miami Heat,19,1927,87.63
+L377,NBA,Spain,Basketball,3756220000.0,3130000.0,Miami Heat,32,1899,361.45
+L378,NFL,Spain,Cricket,3916920000.0,4440000.0,Green Bay Packers,25,2003,99.06
+L379,NFL,England,Football,1753110000.0,5730000.0,Green Bay Packers,18,1935,377.07
+L380,Premier League,Italy,Basketball,4626870000.0,10010000.0,Manchester City,13,1896,133.95
+L381,Premier League,France,American Football,4580860000.0,2390000.0,Manchester United,26,1973,93.81
+L382,NBA,Germany,Cricket,5989730000.0,4760000.0,Miami Heat,31,2001,47.18
+L383,IPL,Spain,Basketball,688520000.0,2910000.0,Chennai Super Kings,14,1938,422.01
+L384,NBA,Spain,Basketball,4782890000.0,13470000.0,Golden State Warriors,32,1907,111.34
+L385,Ligue 1,France,Cricket,4918090000.0,11830000.0,Paris Saint-Germain,15,2006,162.37
+L386,NBA,Italy,Football,2131949999.9999998,13600000.0,Miami Heat,26,1979,390.73
+L387,Premier League,Spain,American Football,3401880000.0,14490000.0,Manchester City,29,1894,425.31
+L388,La Liga,Spain,Cricket,1683380000.0,13060000.0,Real Madrid,24,1905,179.68
+L389,Premier League,France,American Football,5163650000.0,6600000.0,Manchester City,12,1988,223.24
+L390,La Liga,India,Basketball,1383360000.0,10110000.0,Atletico Madrid,18,1902,317.13
+L391,Bundesliga,USA,Football,2738320000.0,10590000.0,RB Leipzig,14,1891,267.21
+L392,NFL,England,Cricket,3255360000.0,2800000.0,Dallas Cowboys,22,1961,361.61
+L393,Ligue 1,USA,Cricket,7132730000.0,3240000.0,Paris Saint-Germain,28,2012,229.2
+L394,IPL,Italy,Cricket,1975910000.0,7200000.0,Chennai Super Kings,27,1920,397.57
+L395,Bundesliga,France,Cricket,1404360000.0,11010000.0,Borussia Dortmund,21,1970,195.73
+L396,La Liga,India,Cricket,4927910000.0,12740000.0,Atletico Madrid,14,1954,221.84
+L397,Ligue 1,USA,Cricket,3868300000.0,9700000.0,Lyon,12,2017,465.66
+L398,Premier League,Italy,Football,6105190000.0,9360000.0,Liverpool,19,1927,465.22
+L399,La Liga,France,Football,1446080000.0,14050000.0,Atletico Madrid,26,2014,429.96
+L400,NBA,Spain,Basketball,7772920000.0,1720000.0,Los Angeles Lakers,24,1912,289.01
+L401,Premier League,Italy,American Football,4779980000.0,8770000.0,Manchester City,21,2020,319.71
+L402,Premier League,England,Cricket,4187210000.0,3310000.0,Manchester City,27,1956,294.53
+L403,IPL,Germany,Cricket,4117290000.0,4430000.0,Chennai Super Kings,21,1977,32.61
+L404,Serie A,France,Basketball,2800610000.0,11060000.0,Inter Milan,26,1988,12.75
+L405,IPL,USA,Cricket,6578060000.0,11030000.0,Chennai Super Kings,12,1971,141.97
+L406,Premier League,India,Basketball,5688460000.0,11840000.0,Liverpool,20,1977,55.36
+L407,IPL,USA,American Football,7769910000.0,4190000.0000000005,Chennai Super Kings,27,2011,306.36
+L408,NBA,Germany,Football,3237430000.0,3150000.0,Los Angeles Lakers,32,1902,422.29
+L409,Serie A,France,American Football,3026210000.0,13100000.0,Juventus,14,1932,21.14
+L410,IPL,England,Cricket,2990220000.0,13990000.0,Kolkata Knight Riders,29,1953,292.97
+L411,La Liga,England,Cricket,5868520000.0,8930000.0,Real Madrid,19,2010,258.81
+L412,Ligue 1,Italy,Football,2133340000.0000002,9710000.0,Olympique Marseille,30,1946,88.5
+L413,NBA,India,Football,5499880000.0,12790000.0,Los Angeles Lakers,19,1945,333.84
+L414,La Liga,England,Football,7448520000.0,10740000.0,Real Madrid,31,1924,398.09
+L415,IPL,Germany,Cricket,1788100000.0,12780000.0,Mumbai Indians,26,2019,454.77
+L416,Bundesliga,India,Cricket,7331640000.0,10210000.0,RB Leipzig,20,1962,183.64
+L417,Ligue 1,Italy,Football,5897290000.0,14600000.0,Paris Saint-Germain,22,1937,23.72
+L418,La Liga,France,Football,2812760000.0,7780000.0,Barcelona,18,1982,331.23
+L419,Bundesliga,India,American Football,5536430000.0,5660000.0,Borussia Dortmund,26,1997,65.14
+L420,Ligue 1,USA,Football,2069380000.0,4160000.0,Paris Saint-Germain,15,1932,378.24
+L421,Serie A,France,Football,7597120000.0,11220000.0,Inter Milan,19,1909,91.21
+L422,Serie A,USA,American Football,907630000.0,4139999.9999999995,Juventus,24,1890,5.76
+L423,IPL,India,Basketball,3252110000.0,11720000.0,Kolkata Knight Riders,13,1969,28.47
+L424,Serie A,England,Cricket,520280000.0,9160000.0,Inter Milan,11,1901,175.92
+L425,Ligue 1,Spain,Basketball,1945470000.0,14210000.0,Olympique Marseille,24,1941,54.01
+L426,La Liga,India,Football,609180000.0,2440000.0,Barcelona,13,1942,409.17
+L427,IPL,England,Cricket,5539140000.0,12860000.0,Chennai Super Kings,32,1909,241.05
+L428,Serie A,India,Football,7782990000.0,9370000.0,Inter Milan,28,1992,330.19
+L429,NBA,England,Cricket,7160760000.0,6980000.0,Los Angeles Lakers,16,1903,118.87
+L430,NBA,India,American Football,2824410000.0,3070000.0,Miami Heat,16,1896,161.98
+L431,Serie A,India,Cricket,2093770000.0,5400000.0,AC Milan,32,1893,353.81
+L432,La Liga,France,Basketball,6391820000.0,5810000.0,Barcelona,26,1963,403.77
+L433,Bundesliga,Italy,Basketball,3135960000.0,5090000.0,RB Leipzig,14,1991,15.53
+L434,Ligue 1,Italy,Cricket,6746100000.0,5370000.0,Paris Saint-Germain,30,1937,120.96
+L435,NFL,Italy,American Football,1789230000.0,6800000.0,Green Bay Packers,25,1902,333.61
+L436,NFL,India,Cricket,529580000.00000006,12760000.0,Green Bay Packers,13,1986,246.86
+L437,Serie A,England,American Football,4771050000.0,4690000.0,AC Milan,18,1888,442.08
+L438,IPL,France,Cricket,1507170000.0,3210000.0,Kolkata Knight Riders,12,1939,354.61
+L439,Premier League,Spain,Basketball,4924620000.0,12950000.0,Manchester United,12,2004,290.99
+L440,Premier League,Spain,Cricket,6821580000.0,3030000.0,Liverpool,31,1917,144.44
+L441,IPL,USA,Football,1104620000.0,6540000.0,Mumbai Indians,25,1936,305.19
+L442,NFL,England,Football,7732710000.0,11750000.0,New England Patriots,23,1947,324.65
+L443,Ligue 1,India,Football,3402350000.0,7530000.0,Paris Saint-Germain,27,1897,143.41
+L444,La Liga,Germany,Cricket,7446380000.0,8170000.0,Real Madrid,32,1912,143.94
+L445,La Liga,India,Cricket,3012820000.0,9820000.0,Real Madrid,32,1926,359.17
+L446,IPL,Spain,Basketball,1251610000.0,13000000.0,Chennai Super Kings,31,1926,212.72
+L447,Premier League,Germany,Cricket,4110550000.0,3260000.0,Manchester United,25,1984,496.37
+L448,Serie A,Italy,American Football,2007750000.0,7460000.0,Juventus,31,1914,432.18
+L449,Bundesliga,USA,Basketball,2903870000.0,9550000.0,Bayern Munich,19,1941,25.88
+L450,Premier League,USA,American Football,3422140000.0,14320000.0,Manchester United,30,1995,453.43
+L451,Serie A,France,Football,4676060000.0,13220000.0,Juventus,28,1970,496.13
+L452,NFL,England,Basketball,4711870000.0,5210000.0,Dallas Cowboys,32,1962,303.9
+L453,Bundesliga,Germany,Cricket,5872990000.0,1530000.0,Borussia Dortmund,21,1918,278.28
+L454,NBA,Italy,Football,4003020000.0,8660000.0,Golden State Warriors,28,1912,297.53
+L455,NBA,India,Cricket,633130000.0,13670000.0,Golden State Warriors,23,1939,53.09
+L456,NFL,England,American Football,7711050000.0,5510000.0,New England Patriots,32,1995,298.65
+L457,Bundesliga,Spain,American Football,4685630000.0,11270000.0,Borussia Dortmund,25,1974,243.98
+L458,La Liga,France,Football,1334250000.0,2300000.0,Real Madrid,16,1907,66.57
+L459,Ligue 1,USA,Cricket,2908630000.0,8189999.999999999,Olympique Marseille,18,1948,130.92
+L460,Ligue 1,Italy,Cricket,685030000.0,2700000.0,Olympique Marseille,27,1909,187.0
+L461,Premier League,Spain,Football,7897190000.0,12170000.0,Manchester United,19,2009,183.34
+L462,Serie A,USA,Football,7299090000.0,2100000.0,Inter Milan,11,1908,231.52
+L463,Ligue 1,USA,Basketball,3066430000.0,7250000.0,Lyon,10,1917,214.83
+L464,Ligue 1,Germany,Football,3088500000.0,9730000.0,Olympique Marseille,11,1975,455.87
+L465,NBA,France,Cricket,7512360000.0,14730000.0,Golden State Warriors,12,1935,498.15
+L466,NFL,India,Basketball,4563860000.0,14760000.0,New England Patriots,12,2012,412.78
+L467,Serie A,Germany,American Football,5668400000.0,3390000.0,Juventus,27,1990,247.36
+L468,NBA,Italy,Cricket,7652580000.0,1840000.0,Golden State Warriors,19,1885,397.57
+L469,NFL,India,Football,3800410000.0,8930000.0,Dallas Cowboys,30,1994,471.56
+L470,La Liga,USA,Cricket,7315240000.0,3730000.0,Barcelona,32,1925,259.15
+L471,Bundesliga,India,American Football,3730730000.0,9320000.0,RB Leipzig,29,1904,87.71
+L472,La Liga,USA,Cricket,6108100000.0,1470000.0,Real Madrid,30,1984,337.02
+L473,La Liga,India,Cricket,4630870000.0,9690000.0,Real Madrid,31,1971,49.94
+L474,Serie A,Spain,Football,6177190000.0,4620000.0,Inter Milan,13,1965,222.54
+L475,La Liga,England,Basketball,6801600000.0,1130000.0,Atletico Madrid,21,1950,94.07
+L476,Serie A,India,Football,2924800000.0,12470000.0,Inter Milan,27,2021,378.76
+L477,NFL,India,Football,3044910000.0,13200000.0,New England Patriots,27,2007,383.99
+L478,NBA,France,Basketball,1331760000.0,6780000.0,Golden State Warriors,17,1954,346.8
+L479,Ligue 1,India,Football,4782610000.0,2870000.0,Paris Saint-Germain,31,1923,220.7
+L480,Serie A,Spain,Basketball,4546480000.0,5420000.0,Juventus,21,1905,112.61
+L481,Bundesliga,England,Basketball,7787090000.0,3880000.0,Borussia Dortmund,31,1943,269.75
+L482,NBA,Spain,American Football,6071400000.0,5770000.0,Los Angeles Lakers,15,1886,237.97
+L483,IPL,USA,Basketball,3290880000.0,10810000.0,Chennai Super Kings,12,1887,78.97
+L484,Ligue 1,India,Football,4799270000.0,5480000.0,Lyon,11,1907,388.48
+L485,Bundesliga,USA,American Football,2577010000.0,6020000.0,Borussia Dortmund,31,1921,7.89
+L486,NBA,England,Football,3655820000.0,3770000.0,Los Angeles Lakers,15,1945,61.86
+L487,La Liga,USA,Cricket,6981130000.0,9450000.0,Real Madrid,23,1958,472.95
+L488,Premier League,USA,Football,6129790000.0,1420000.0,Manchester United,27,1882,119.67
+L489,Premier League,Germany,Cricket,632230000.0,10790000.0,Manchester United,22,1925,147.19
+L490,Ligue 1,England,American Football,5924110000.0,9590000.0,Olympique Marseille,27,1880,61.26
+L491,IPL,USA,American Football,7192660000.0,11930000.0,Kolkata Knight Riders,22,1897,326.85
+L492,La Liga,Italy,Football,2201210000.0,13300000.0,Barcelona,17,1994,79.54
+L493,Premier League,France,Football,5821370000.0,10320000.0,Manchester City,16,1901,86.67
+L494,NFL,USA,Football,1026880000.0000001,14170000.0,Green Bay Packers,20,1916,439.1
+L495,Ligue 1,Spain,American Football,2708670000.0,4770000.0,Lyon,22,2002,168.69
+L496,Ligue 1,Germany,Football,4558170000.0,6390000.0,Olympique Marseille,15,2018,126.32
+L497,Serie A,France,Football,2359340000.0,8510000.0,Juventus,31,1885,478.1
+L498,NBA,Germany,Basketball,1302850000.0,1780000.0,Miami Heat,14,1889,242.21
+L499,La Liga,England,Football,6814530000.0,9280000.0,Real Madrid,22,1977,471.47
+L500,IPL,Spain,Basketball,3453350000.0,11170000.0,Mumbai Indians,15,1990,90.3
+L501,La Liga,Italy,American Football,929800000.0,5410000.0,Barcelona,20,2008,386.0
+L502,IPL,Germany,Basketball,2758670000.0,7860000.0,Chennai Super Kings,26,1964,482.67
+L503,Premier League,USA,Basketball,1245520000.0,7520000.0,Manchester City,21,1901,157.97
+L504,IPL,Spain,Football,6274910000.0,4740000.0,Kolkata Knight Riders,10,1943,380.05
+L505,IPL,Italy,Cricket,6185130000.0,12440000.0,Chennai Super Kings,14,1958,250.34
+L506,NBA,Spain,Cricket,1566030000.0,3580000.0,Los Angeles Lakers,23,1977,177.42
+L507,Premier League,USA,Football,1452210000.0,2830000.0,Manchester United,23,2019,407.13
+L508,Serie A,India,Football,7871720000.0,14010000.0,Juventus,26,1958,334.59
+L509,NFL,Germany,Basketball,5214190000.0,7770000.0,Green Bay Packers,22,1923,474.74
+L510,Serie A,Spain,Basketball,6206600000.0,6490000.0,Inter Milan,28,1996,36.39
+L511,Serie A,USA,Football,2523180000.0,13740000.0,AC Milan,21,2000,295.22
+L512,NFL,England,Cricket,1508420000.0,7940000.0,Dallas Cowboys,32,1959,494.75
+L513,Bundesliga,Spain,American Football,6967820000.0,1370000.0,Bayern Munich,22,1960,486.17
+L514,NFL,Spain,Cricket,5374410000.0,2710000.0,New England Patriots,27,1916,442.42
+L515,IPL,France,Cricket,1413570000.0,14530000.0,Chennai Super Kings,30,1995,100.24
+L516,Ligue 1,England,American Football,3732880000.0,1720000.0,Lyon,14,1992,216.45
+L517,Serie A,Germany,Cricket,5653340000.0,6900000.0,Juventus,28,1885,182.97
+L518,NBA,Italy,Basketball,4777890000.0,8750000.0,Los Angeles Lakers,25,1915,176.69
+L519,La Liga,Germany,Basketball,538990000.0,6460000.0,Real Madrid,31,1996,167.02
+L520,NFL,Italy,Football,3730430000.0,14130000.0,Green Bay Packers,26,2018,268.42
+L521,Serie A,Italy,Basketball,524260000.0,2480000.0,AC Milan,26,1880,211.06
+L522,IPL,USA,Basketball,4162020000.0000005,3290000.0,Chennai Super Kings,13,1943,337.41
+L523,Bundesliga,Italy,Basketball,3381970000.0,1390000.0,RB Leipzig,19,1961,198.78
+L524,Premier League,Spain,American Football,4040580000.0,1770000.0,Manchester City,32,1988,488.33
+L525,Premier League,England,Cricket,7137810000.0,6320000.0,Manchester United,26,2001,123.62
+L526,NFL,Italy,American Football,5136800000.0,5530000.0,Green Bay Packers,26,1885,313.12
+L527,NFL,Spain,Football,3580750000.0,5080000.0,Green Bay Packers,15,1950,221.47
+L528,NBA,USA,American Football,2207690000.0,8740000.0,Golden State Warriors,10,1949,187.69
+L529,NBA,India,Cricket,1193540000.0,5770000.0,Los Angeles Lakers,21,1993,234.57
+L530,Premier League,England,American Football,1639630000.0,2370000.0,Liverpool,21,1984,185.8
+L531,Ligue 1,Italy,American Football,7099030000.0,11430000.0,Paris Saint-Germain,22,2010,119.8
+L532,NFL,France,Football,1752330000.0,14900000.0,Dallas Cowboys,19,1988,299.21
+L533,NFL,France,Football,1288190000.0,6790000.0,New England Patriots,30,1927,305.22
+L534,Ligue 1,France,American Football,7352270000.0,4179999.9999999995,Paris Saint-Germain,11,2003,106.97
+L535,Premier League,France,Football,2337220000.0,1360000.0,Manchester United,16,1955,434.96
+L536,Bundesliga,France,Basketball,6745620000.0,11570000.0,RB Leipzig,18,1958,113.95
+L537,Bundesliga,Germany,Cricket,7194070000.0,3720000.0,Bayern Munich,18,1975,13.44
+L538,NBA,USA,Cricket,5721600000.0,13520000.0,Los Angeles Lakers,21,1974,323.7
+L539,Serie A,France,Cricket,2913260000.0,5300000.0,Juventus,12,2013,251.38
+L540,Premier League,USA,Basketball,2218880000.0,6670000.0,Manchester City,11,1915,198.37
+L541,Bundesliga,France,Football,3114470000.0,11090000.0,Borussia Dortmund,17,1984,207.48
+L542,Bundesliga,England,Cricket,1448890000.0,7140000.0,Bayern Munich,10,1915,431.35
+L543,Premier League,USA,Football,7344660000.0,13040000.0,Manchester United,19,1965,34.34
+L544,Premier League,Italy,Football,7538160000.0,12750000.0,Manchester United,31,1911,422.98
+L545,Bundesliga,India,Football,4474450000.0,5510000.0,Bayern Munich,31,1904,20.3
+L546,NFL,Spain,American Football,1772190000.0,10770000.0,Dallas Cowboys,22,1948,170.07
+L547,La Liga,India,American Football,2034540000.0,2089999.9999999998,Atletico Madrid,31,1947,482.68
+L548,Premier League,India,Basketball,2011800000.0,2020000.0,Manchester City,29,2019,285.1
+L549,Premier League,Italy,American Football,7865030000.0,5930000.0,Manchester City,15,1937,243.43
+L550,Ligue 1,Germany,Basketball,7685760000.0,11500000.0,Paris Saint-Germain,28,1975,92.95
+L551,NBA,England,American Football,6809130000.0,3270000.0,Los Angeles Lakers,12,1992,121.18
+L552,Premier League,USA,American Football,6781950000.0,9100000.0,Manchester City,28,1983,238.99
+L553,Serie A,Spain,American Football,4564900000.0,9570000.0,Inter Milan,17,1903,28.71
+L554,NFL,India,Basketball,2684150000.0,7470000.0,Green Bay Packers,26,1986,192.64
+L555,Premier League,India,Cricket,7382740000.0,11820000.0,Manchester United,24,1974,345.74
+L556,Premier League,India,American Football,2521560000.0,7810000.0,Liverpool,15,1966,492.27
+L557,La Liga,England,Football,3065000000.0,13280000.0,Barcelona,30,2003,370.67
+L558,Bundesliga,India,American Football,4415720000.0,4179999.9999999995,RB Leipzig,20,2013,386.36
+L559,La Liga,England,Football,5782380000.0,4850000.0,Barcelona,22,2012,293.69
+L560,Serie A,Italy,Basketball,2157700000.0,12780000.0,Inter Milan,17,1964,224.84
+L561,Premier League,France,Football,7051610000.0,13010000.0,Manchester United,21,1960,409.19
+L562,Bundesliga,Italy,Cricket,4255720000.0000005,14560000.0,Borussia Dortmund,25,2006,44.42
+L563,Premier League,Germany,Cricket,2602170000.0,12080000.0,Liverpool,14,1952,446.19
+L564,Serie A,Spain,Cricket,5430710000.0,6670000.0,Inter Milan,30,1946,474.85
+L565,NFL,USA,Football,4317200000.0,14020000.0,New England Patriots,19,1927,456.06
+L566,Premier League,France,Basketball,4678840000.0,7280000.0,Liverpool,22,1958,159.29
+L567,Premier League,Germany,Football,7399500000.0,12330000.0,Liverpool,31,1929,329.06
+L568,Serie A,England,Cricket,4796460000.0,14090000.0,AC Milan,29,2006,47.52
+L569,IPL,Spain,Basketball,5720260000.0,9200000.0,Mumbai Indians,31,2009,73.09
+L570,NFL,France,Basketball,2662390000.0,10580000.0,Dallas Cowboys,25,1940,254.81
+L571,Premier League,England,Cricket,7603730000.0,2020000.0,Manchester United,21,1989,215.85
+L572,Premier League,USA,Cricket,2776070000.0,13210000.0,Liverpool,11,1971,272.66
+L573,La Liga,Germany,Cricket,5355110000.0,5050000.0,Barcelona,18,2014,356.38
+L574,Bundesliga,USA,Basketball,3624100000.0,2470000.0,Bayern Munich,23,1981,122.73
+L575,Ligue 1,England,American Football,3395320000.0,10330000.0,Paris Saint-Germain,15,1915,49.22
+L576,La Liga,Spain,Football,1267200000.0,6410000.0,Barcelona,22,1936,449.04
+L577,Ligue 1,Spain,Cricket,804970000.0,9250000.0,Olympique Marseille,26,1991,136.35
+L578,Ligue 1,India,Football,3029820000.0,10960000.0,Lyon,20,1896,453.41
+L579,Serie A,India,American Football,3564490000.0,2430000.0,Inter Milan,26,1988,465.57
+L580,NFL,England,American Football,1905300000.0,3540000.0,Dallas Cowboys,30,1904,315.85
+L581,Bundesliga,Germany,Football,1253120000.0,11930000.0,Borussia Dortmund,18,1937,458.46
+L582,NBA,Italy,Basketball,5735910000.0,7900000.0,Los Angeles Lakers,21,1904,432.9
+L583,NFL,Germany,American Football,2760090000.0,6540000.0,Green Bay Packers,22,1994,272.46
+L584,Ligue 1,Germany,Cricket,3187790000.0,2380000.0,Olympique Marseille,13,2023,361.44
+L585,NBA,Spain,Football,2171470000.0,2860000.0,Los Angeles Lakers,28,1970,133.86
+L586,NFL,Spain,Football,7745310000.0,2590000.0,New England Patriots,30,1885,84.31
+L587,Bundesliga,India,Football,2931260000.0,10290000.0,RB Leipzig,26,1934,171.65
+L588,Ligue 1,France,Football,5796700000.0,4990000.0,Lyon,19,1882,464.82
+L589,Ligue 1,France,Football,1733030000.0,11160000.0,Lyon,13,1935,162.16
+L590,IPL,Spain,Basketball,2622490000.0,8490000.0,Chennai Super Kings,16,1981,214.78
+L591,NBA,India,Cricket,5662360000.0,14670000.0,Los Angeles Lakers,19,1889,232.65
+L592,Premier League,Italy,Football,7415980000.0,13020000.0,Manchester United,29,1980,287.19
+L593,IPL,England,Basketball,1634720000.0,13990000.0,Mumbai Indians,16,1884,407.05
+L594,La Liga,England,American Football,2644380000.0,8970000.0,Atletico Madrid,13,1906,235.39
+L595,NBA,USA,Football,6882770000.0,2800000.0,Los Angeles Lakers,18,1936,228.82
+L596,IPL,India,Basketball,1566280000.0,9060000.0,Chennai Super Kings,22,1995,129.26
+L597,Serie A,France,Basketball,5134630000.0,2260000.0,Inter Milan,13,1888,186.98
+L598,Serie A,Germany,Football,6908520000.0,8450000.0,Inter Milan,27,1963,240.99
+L599,Bundesliga,Italy,American Football,7149190000.0,9610000.0,Bayern Munich,18,1992,492.23
+L600,NFL,England,American Football,2250400000.0,9170000.0,New England Patriots,32,1999,426.89
+L601,Ligue 1,Spain,Cricket,6135580000.0,5590000.0,Paris Saint-Germain,10,2013,134.6
+L602,NFL,Italy,Football,3417780000.0,1370000.0,Dallas Cowboys,21,1935,460.14
+L603,Serie A,France,Football,6062860000.0,10720000.0,Inter Milan,15,1911,123.73
+L604,Ligue 1,Spain,Cricket,3778470000.0,4550000.0,Lyon,32,1917,123.02
+L605,La Liga,India,Cricket,6504140000.0,3440000.0,Barcelona,16,1984,429.96
+L606,Premier League,France,American Football,2524650000.0,11900000.0,Manchester City,29,2012,143.09
+L607,La Liga,Germany,American Football,1525340000.0,10140000.0,Barcelona,28,1945,100.46
+L608,Ligue 1,Italy,Basketball,2155610000.0,14490000.0,Paris Saint-Germain,25,1967,78.1
+L609,Ligue 1,USA,Cricket,4814670000.0,3120000.0,Lyon,24,1917,153.22
+L610,La Liga,Italy,Football,5428160000.0,3150000.0,Atletico Madrid,29,1988,126.27
+L611,IPL,USA,American Football,6013570000.0,5280000.0,Mumbai Indians,26,2001,364.06
+L612,Serie A,Italy,Football,2646010000.0,2020000.0,Juventus,32,1881,320.53
+L613,NFL,Germany,American Football,1833220000.0,3150000.0,Green Bay Packers,15,2005,33.05
+L614,NFL,England,American Football,5358850000.0,8530000.0,Dallas Cowboys,26,1919,57.83
+L615,La Liga,Germany,Basketball,2948280000.0,4730000.0,Real Madrid,27,1935,495.23
+L616,Ligue 1,France,Basketball,7910010000.0,8230000.0,Paris Saint-Germain,31,1964,393.13
+L617,Premier League,Spain,Basketball,3049050000.0,6950000.0,Manchester United,25,1898,397.6
+L618,Serie A,Italy,Basketball,1902480000.0,10680000.0,Juventus,11,1893,179.92
+L619,La Liga,India,Basketball,3519730000.0,9570000.0,Real Madrid,20,1954,66.7
+L620,IPL,Germany,American Football,505400000.0,14580000.0,Mumbai Indians,26,1940,173.47
+L621,Serie A,India,Basketball,2604990000.0,3820000.0,AC Milan,11,2007,247.22
+L622,Bundesliga,USA,American Football,2129560000.0,11300000.0,Bayern Munich,26,2003,308.37
+L623,IPL,Germany,American Football,4409990000.0,13130000.0,Mumbai Indians,27,1959,181.48
+L624,NFL,India,American Football,5738710000.0,1790000.0,Dallas Cowboys,24,2004,211.21
+L625,Serie A,Italy,Football,4876540000.0,7430000.0,AC Milan,32,1946,144.98
+L626,La Liga,Spain,Cricket,3012050000.0,12610000.0,Barcelona,11,1913,195.02
+L627,La Liga,France,Cricket,3431130000.0,12200000.0,Real Madrid,30,1888,409.88
+L628,Ligue 1,India,Cricket,6482710000.0,6090000.0,Olympique Marseille,24,2008,362.84
+L629,NBA,Spain,Football,7606620000.0,3620000.0,Los Angeles Lakers,27,1947,151.18
+L630,NBA,Spain,American Football,6604560000.0,8250000.0,Miami Heat,19,1907,165.75
+L631,NBA,USA,American Football,1498550000.0,1860000.0,Golden State Warriors,13,1889,499.95
+L632,Premier League,England,Cricket,3780340000.0,8010000.0,Liverpool,25,1992,390.81
+L633,NFL,USA,Cricket,1265530000.0,3720000.0,Dallas Cowboys,19,1953,155.87
+L634,NFL,Italy,Basketball,5939420000.0,5470000.0,Green Bay Packers,18,1998,228.0
+L635,Bundesliga,USA,Basketball,5149870000.0,9950000.0,Borussia Dortmund,31,1994,34.87
+L636,Premier League,Spain,Football,5149720000.0,2240000.0,Manchester City,26,1916,370.38
+L637,NBA,India,Football,4674480000.0,13480000.0,Miami Heat,26,1901,231.27
+L638,Ligue 1,India,Cricket,5504410000.0,4300000.0,Lyon,21,1972,86.96
+L639,Serie A,Germany,Basketball,5576610000.0,10340000.0,Juventus,29,1992,312.27
+L640,Ligue 1,England,American Football,4932940000.0,10730000.0,Lyon,28,2020,381.02
+L641,La Liga,India,Cricket,4137390000.0000005,4010000.0,Barcelona,10,1900,115.49
+L642,NFL,Germany,American Football,4883320000.0,12670000.0,New England Patriots,22,1954,120.58
+L643,La Liga,Germany,Cricket,3374010000.0,11620000.0,Real Madrid,15,1929,23.46
+L644,Ligue 1,USA,American Football,6063570000.0,12120000.0,Paris Saint-Germain,24,1938,385.64
+L645,La Liga,France,American Football,1809800000.0,2490000.0,Barcelona,15,1995,410.96
+L646,Serie A,Italy,American Football,2713450000.0,9500000.0,Inter Milan,22,1947,303.94
+L647,NBA,France,Cricket,3781390000.0,13520000.0,Los Angeles Lakers,31,1932,171.59
+L648,Ligue 1,Spain,American Football,3432920000.0,9450000.0,Lyon,31,1960,161.35
+L649,Serie A,England,Basketball,7403480000.0,14590000.0,Inter Milan,16,2012,295.45
+L650,Ligue 1,France,Basketball,6126410000.0,4750000.0,Lyon,26,1994,272.98
+L651,Premier League,England,Basketball,2681740000.0,2360000.0,Liverpool,11,1880,461.36
+L652,Premier League,Italy,Cricket,4756480000.0,5710000.0,Manchester United,20,1983,214.5
+L653,NBA,England,American Football,4401970000.0,1690000.0,Miami Heat,18,1930,377.04
+L654,Bundesliga,India,Cricket,7815550000.0,14900000.0,Bayern Munich,19,2021,497.33
+L655,NFL,Germany,Football,5004560000.0,4880000.0,New England Patriots,31,1957,131.58
+L656,NFL,Germany,Cricket,1335640000.0,12440000.0,Green Bay Packers,29,1978,75.45
+L657,IPL,USA,Basketball,7608070000.0,14520000.0,Chennai Super Kings,27,1993,451.81
+L658,Serie A,France,American Football,1665500000.0,8119999.999999999,Juventus,28,2014,395.48
+L659,Serie A,USA,American Football,2765350000.0,4660000.0,Inter Milan,27,1914,103.24
+L660,IPL,England,Basketball,4693620000.0,12750000.0,Kolkata Knight Riders,27,1998,18.74
+L661,Bundesliga,USA,Cricket,5858060000.0,1340000.0,RB Leipzig,19,1911,456.32
+L662,La Liga,Spain,Cricket,1776060000.0,8660000.0,Atletico Madrid,21,1887,69.92
+L663,NBA,England,Cricket,2003890000.0,6690000.0,Miami Heat,23,1974,454.04
+L664,La Liga,England,Basketball,4747960000.0,3200000.0,Atletico Madrid,17,2016,279.67
+L665,Bundesliga,France,Football,7821150000.0,8920000.0,RB Leipzig,13,1985,219.57
+L666,Bundesliga,India,Basketball,1699750000.0,12800000.0,RB Leipzig,11,1930,229.58
+L667,NFL,Germany,Football,7667550000.0,7940000.0,New England Patriots,25,1970,363.8
+L668,Serie A,Spain,Basketball,5568290000.0,8039999.999999999,Juventus,21,2002,316.42
+L669,La Liga,USA,American Football,3557690000.0,1460000.0,Atletico Madrid,15,1996,220.94
+L670,IPL,USA,Cricket,2528680000.0,1400000.0,Kolkata Knight Riders,12,1912,202.51
+L671,Bundesliga,Spain,Cricket,3281440000.0,2670000.0,RB Leipzig,25,2009,302.34
+L672,NFL,India,Football,2868260000.0,8960000.0,Green Bay Packers,10,1935,164.96
+L673,IPL,France,Basketball,4253340000.0,7460000.0,Mumbai Indians,10,2003,163.86
+L674,NFL,Italy,Basketball,733500000.0,7490000.0,Green Bay Packers,24,1980,435.4
+L675,Premier League,Germany,American Football,4858110000.0,13840000.0,Manchester United,11,2018,119.96
+L676,Premier League,Italy,American Football,7623720000.0,13950000.0,Manchester City,29,1916,189.17
+L677,Premier League,India,Football,4495430000.0,10720000.0,Liverpool,28,1913,224.3
+L678,Bundesliga,Italy,Basketball,2770260000.0,13490000.0,RB Leipzig,14,1991,201.49
+L679,Premier League,Germany,Basketball,7374590000.0,1280000.0,Liverpool,21,1935,193.18
+L680,Premier League,Germany,Cricket,1535430000.0,9030000.0,Manchester United,29,1880,32.94
+L681,Serie A,England,Football,5159860000.0,10080000.0,Inter Milan,18,1960,479.42
+L682,NBA,USA,Football,3079580000.0,13520000.0,Los Angeles Lakers,19,1990,428.36
+L683,Bundesliga,England,Football,5457390000.0,1810000.0,Bayern Munich,17,1964,467.95
+L684,Ligue 1,Spain,Cricket,3501420000.0,7350000.0,Paris Saint-Germain,29,1939,300.58
+L685,Ligue 1,India,Cricket,3794670000.0,5330000.0,Olympique Marseille,22,2023,99.26
+L686,IPL,USA,Football,6989200000.0,4019999.9999999995,Mumbai Indians,13,1913,370.44
+L687,Bundesliga,France,Basketball,4516380000.0,2460000.0,Bayern Munich,10,2021,477.95
+L688,Bundesliga,Italy,Basketball,5568830000.0,3290000.0,Bayern Munich,31,1962,299.79
+L689,Premier League,Germany,American Football,1812050000.0,14170000.0,Manchester United,26,1902,153.31
+L690,NFL,USA,Football,2389400000.0,2890000.0,Dallas Cowboys,22,2021,409.7
+L691,Bundesliga,India,American Football,2793070000.0,13700000.0,Bayern Munich,15,1920,286.56
+L692,Premier League,USA,Basketball,6557340000.0,1960000.0,Manchester United,16,1945,18.36
+L693,Ligue 1,India,Football,4627240000.0,8390000.0,Paris Saint-Germain,16,1966,386.27
+L694,Premier League,France,Football,4324090000.0,11320000.0,Liverpool,19,2010,44.16
+L695,La Liga,Spain,Cricket,6635030000.0,9240000.0,Real Madrid,32,1894,375.55
+L696,Bundesliga,France,Football,2280400000.0,2970000.0,RB Leipzig,25,1914,159.88
+L697,Ligue 1,USA,Cricket,694520000.0,12130000.0,Lyon,20,2009,194.31
+L698,Premier League,USA,Football,5251210000.0,4780000.0,Manchester United,29,2004,79.36
+L699,NBA,Germany,American Football,5898850000.0,11020000.0,Miami Heat,22,1897,238.5
+L700,La Liga,India,Football,2865280000.0,2110000.0,Barcelona,17,1920,322.22
