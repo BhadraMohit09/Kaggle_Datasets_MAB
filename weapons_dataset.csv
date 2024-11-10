@@ -1,0 +1,1001 @@
+WeaponID,WeaponType,Material,Rarity,AttackPower,Durability,Range,Weight
+1,Whip,Iron,Rare,74,16,171,19.5
+2,Mace,Plastic,Epic,358,81,266,28.02
+3,Bow,Titanium,Rare,75,17,169,13.95
+4,Mace,Gold,Mythical,130,21,222,30.39
+5,Bow,Steel,Divine,454,10,152,0.65
+6,Grenade Launcher,Mythril,Common,217,21,75,37.53
+7,Sniper Rifle,Adamantium,Legendary,138,11,245,2.74
+8,Dagger,Wood,Uncommon,422,43,225,37.4
+9,Rocket Launcher,Steel,Epic,316,49,282,28.86
+10,Machine Gun,Obsidian,Legendary,373,40,120,0.8
+11,Spear,Plastic,Divine,107,51,281,19.33
+12,Rocket Launcher,Plastic,Mythical,159,82,217,40.51
+13,Rifle,Titanium,Common,227,30,45,2.92
+14,Hammer,Carbon Fiber,Legendary,327,44,219,29.78
+15,Scythe,Graphene,Legendary,419,25,88,3.59
+16,Bow,Graphene,Mythical,132,97,31,21.69
+17,Blowgun,Bronze,Uncommon,389,9,17,49.25
+18,Throwing Star,Reinforced Concrete,Common,61,89,229,33.79
+19,Machine Gun,Obsidian,Epic,211,18,112,19.24
+20,Throwing Star,Gold,Uncommon,357,19,289,46.51
+21,Sword,Titanium,Ancient,57,100,119,8.59
+22,Rifle,Titanium,Epic,433,100,242,14.93
+23,Shotgun,Carbon Fiber,Ancient,272,82,209,43.02
+24,Plasma Gun,Magnesium Alloy,Divine,485,28,19,30.89
+25,Sling,Titanium,Epic,55,29,205,16.13
+26,Blowgun,Titanium,Mythical,386,98,49,41.16
+27,Mace,Silver,Common,322,87,190,20.92
+28,Sling,Iron,Uncommon,378,37,94,45.76
+29,Sniper Rifle,Gold,Common,142,66,265,2.7
+30,Mace,Adamantium,Uncommon,430,99,28,1.8
+31,Whip,Composite,Uncommon,363,45,91,7.68
+32,Rocket Launcher,Bronze,Uncommon,250,44,52,13.85
+33,Shotgun,Obsidian,Uncommon,94,39,298,40.76
+34,Scythe,Obsidian,Uncommon,67,10,29,38.62
+35,Machine Gun,Wood,Epic,369,85,218,48.1
+36,Spear,Carbon Fiber,Ancient,33,12,124,39.71
+37,Shotgun,Bronze,Divine,382,59,2,25.31
+38,Sword,Bronze,Rare,303,90,134,32.47
+39,Bow,Mythril,Uncommon,426,40,280,17.84
+40,Machine Gun,Graphene,Legendary,463,73,14,13.21
+41,Laser Gun,Mythril,Ancient,317,49,72,4.26
+42,Axe,Graphene,Divine,267,85,110,32.47
+43,Whip,Obsidian,Epic,298,40,242,19.08
+44,Blowgun,Mythril,Divine,479,2,234,21.67
+45,Sword,Titanium,Mythical,435,87,184,0.94
+46,Laser Gun,Composite,Mythical,203,6,280,20.31
+47,Axe,Titanium,Uncommon,156,59,195,39.67
+48,Plasma Gun,Iron,Ancient,324,13,263,44.53
+49,Pistol,Steel,Ancient,461,56,109,49.62
+50,Shotgun,Obsidian,Common,408,29,1,23.76
+51,Dagger,Adamantium,Rare,14,47,241,16.42
+52,Shotgun,Titanium,Legendary,142,85,228,12.14
+53,Scythe,Titanium,Divine,204,20,115,24.37
+54,Whip,Steel,Rare,218,41,115,45.4
+55,Rifle,Mythril,Divine,248,6,80,8.4
+56,Sword,Silver,Ancient,364,61,57,37.18
+57,Plasma Gun,Mythril,Mythical,323,99,149,36.48
+58,Throwing Star,Bronze,Common,281,64,269,29.54
+59,Machine Gun,Bronze,Divine,379,25,104,39.68
+60,Sniper Rifle,Plastic,Mythical,68,99,73,41.11
+61,Shotgun,Steel,Rare,300,99,161,2.64
+62,Mace,Plastic,Ancient,427,33,50,5.61
+63,Rocket Launcher,Titanium,Common,236,74,291,44.95
+64,Shotgun,Steel,Rare,438,60,68,10.43
+65,Pistol,Plastic,Rare,53,23,92,3.37
+66,Rifle,Iron,Rare,187,98,219,6.23
+67,Dagger,Carbon Fiber,Legendary,319,71,215,48.46
+68,Crossbow,Diamond,Epic,425,46,54,31.1
+69,Plasma Gun,Reinforced Concrete,Common,294,65,288,35.54
+70,Sniper Rifle,Diamond,Legendary,166,18,207,28.29
+71,Scythe,Bronze,Epic,472,23,262,36.66
+72,Spear,Graphene,Divine,449,12,142,14.05
+73,Bow,Titanium,Divine,288,64,215,9.0
+74,Rocket Launcher,Iron,Epic,344,49,146,28.62
+75,Sling,Silver,Ancient,119,11,7,11.42
+76,Throwing Star,Carbon Fiber,Mythical,141,40,252,42.14
+77,Scythe,Gold,Divine,238,56,41,1.09
+78,Plasma Gun,Titanium,Legendary,282,69,72,32.01
+79,Dagger,Magnesium Alloy,Common,316,44,203,26.98
+80,Spear,Carbon Fiber,Epic,164,98,158,29.5
+81,Bow,Plastic,Uncommon,79,92,16,24.07
+82,Blowgun,Bronze,Ancient,343,9,224,7.66
+83,Bow,Mythril,Uncommon,28,75,289,48.84
+84,Blowgun,Obsidian,Mythical,294,91,233,15.67
+85,Rocket Launcher,Mythril,Divine,250,85,22,2.4
+86,Machine Gun,Silver,Ancient,213,12,128,11.42
+87,Crossbow,Obsidian,Epic,477,35,263,25.65
+88,Grenade Launcher,Steel,Mythical,454,50,254,6.52
+89,Shotgun,Wood,Common,412,9,75,16.73
+90,Sling,Plastic,Common,177,34,213,4.23
+91,Bazooka,Plastic,Mythical,276,52,154,34.48
+92,Throwing Star,Reinforced Concrete,Common,52,6,41,40.13
+93,Blowgun,Carbon Fiber,Common,332,35,17,34.61
+94,Flail,Gold,Common,224,21,20,38.84
+95,Hammer,Silver,Uncommon,469,85,215,29.24
+96,Sniper Rifle,Graphene,Legendary,97,89,130,46.46
+97,Rifle,Bronze,Uncommon,94,50,231,19.05
+98,Axe,Steel,Common,414,50,245,11.08
+99,Sword,Magnesium Alloy,Rare,229,79,243,8.71
+100,Crossbow,Composite,Divine,133,84,12,6.01
+101,Bow,Diamond,Uncommon,223,39,12,12.15
+102,Pistol,Composite,Mythical,219,56,92,27.61
+103,Pistol,Composite,Epic,266,97,216,27.42
+104,Bow,Diamond,Common,61,62,42,16.71
+105,Pistol,Silver,Divine,493,67,154,7.53
+106,Flail,Composite,Rare,97,48,285,49.35
+107,Plasma Gun,Bronze,Rare,74,29,123,18.84
+108,Whip,Titanium,Uncommon,78,51,61,26.37
+109,Dagger,Silver,Ancient,39,11,93,36.74
+110,Scythe,Carbon Fiber,Ancient,493,67,84,14.07
+111,Machine Gun,Mythril,Uncommon,29,95,5,12.14
+112,Whip,Adamantium,Mythical,287,100,142,16.03
+113,Sword,Wood,Legendary,92,97,278,33.83
+114,Machine Gun,Composite,Uncommon,236,92,178,43.83
+115,Machine Gun,Silver,Legendary,142,13,225,9.25
+116,Shotgun,Plastic,Uncommon,334,22,40,38.87
+117,Sniper Rifle,Plastic,Ancient,457,79,288,43.63
+118,Laser Gun,Magnesium Alloy,Divine,232,13,261,25.98
+119,Flail,Silver,Mythical,270,70,10,15.44
+120,Plasma Gun,Steel,Common,219,91,222,3.37
+121,Hammer,Graphene,Epic,284,96,297,13.29
+122,Sling,Plastic,Rare,387,54,93,10.55
+123,Crossbow,Graphene,Uncommon,373,75,242,4.36
+124,Staff,Graphene,Common,403,93,224,33.12
+125,Rocket Launcher,Reinforced Concrete,Mythical,321,25,246,34.72
+126,Bow,Composite,Epic,116,60,264,43.44
+127,Rocket Launcher,Titanium,Common,476,64,156,36.26
+128,Throwing Star,Bronze,Divine,414,80,51,29.85
+129,Laser Gun,Composite,Ancient,356,69,126,31.91
+130,Flail,Plastic,Divine,155,61,193,20.36
+131,Shotgun,Bronze,Divine,153,80,279,49.59
+132,Spear,Bronze,Ancient,200,69,68,17.71
+133,Mace,Bronze,Common,415,83,143,33.57
+134,Machine Gun,Adamantium,Uncommon,71,72,16,11.37
+135,Flail,Carbon Fiber,Rare,342,29,98,37.38
+136,Rifle,Reinforced Concrete,Rare,367,32,51,3.28
+137,Axe,Gold,Divine,293,50,7,19.87
+138,Scythe,Steel,Mythical,148,85,213,31.94
+139,Bow,Wood,Rare,150,75,164,33.36
+140,Plasma Gun,Silver,Legendary,169,59,10,27.91
+141,Sniper Rifle,Diamond,Mythical,378,79,256,3.63
+142,Grenade Launcher,Silver,Uncommon,401,56,20,33.85
+143,Rifle,Titanium,Legendary,486,82,266,45.02
+144,Sniper Rifle,Titanium,Common,460,96,58,49.44
+145,Shotgun,Gold,Legendary,226,69,6,3.51
+146,Plasma Gun,Wood,Rare,57,21,214,35.64
+147,Shotgun,Magnesium Alloy,Uncommon,63,53,66,15.4
+148,Axe,Composite,Rare,76,2,51,22.83
+149,Staff,Iron,Divine,356,34,66,17.44
+150,Crossbow,Mythril,Common,434,83,185,18.23
+151,Flail,Iron,Rare,163,25,174,40.2
+152,Staff,Mythril,Uncommon,456,80,48,26.0
+153,Sword,Reinforced Concrete,Ancient,251,21,223,23.86
+154,Mace,Composite,Divine,422,7,44,38.87
+155,Grenade Launcher,Mythril,Ancient,366,66,68,21.7
+156,Flail,Plastic,Ancient,150,84,46,31.25
+157,Axe,Wood,Ancient,62,18,182,31.76
+158,Rocket Launcher,Obsidian,Epic,67,80,174,34.35
+159,Bow,Plastic,Epic,376,48,242,27.12
+160,Pistol,Mythril,Legendary,195,91,125,22.24
+161,Staff,Carbon Fiber,Common,412,83,244,47.74
+162,Pistol,Graphene,Mythical,161,100,59,48.46
+163,Bazooka,Graphene,Epic,15,6,287,22.92
+164,Pistol,Silver,Common,362,6,213,30.45
+165,Shotgun,Reinforced Concrete,Uncommon,94,68,36,49.73
+166,Sling,Diamond,Divine,418,69,186,49.31
+167,Whip,Mythril,Legendary,445,73,192,17.8
+168,Bazooka,Composite,Rare,322,10,23,11.89
+169,Machine Gun,Plastic,Epic,317,29,272,29.86
+170,Shotgun,Obsidian,Uncommon,428,4,211,31.41
+171,Rocket Launcher,Obsidian,Divine,479,93,150,15.29
+172,Sword,Titanium,Rare,325,43,22,17.45
+173,Rifle,Plastic,Divine,405,96,263,0.68
+174,Throwing Star,Bronze,Mythical,21,37,251,31.22
+175,Sword,Titanium,Common,200,11,218,3.12
+176,Grenade Launcher,Titanium,Ancient,392,66,122,36.93
+177,Laser Gun,Wood,Ancient,343,85,90,18.54
+178,Rifle,Magnesium Alloy,Mythical,386,98,10,30.2
+179,Bazooka,Diamond,Uncommon,429,24,107,31.9
+180,Scythe,Diamond,Rare,56,12,92,39.97
+181,Hammer,Composite,Legendary,194,32,253,13.92
+182,Sword,Silver,Epic,371,78,69,32.04
+183,Shotgun,Titanium,Common,308,61,160,31.36
+184,Crossbow,Graphene,Rare,78,18,23,44.08
+185,Grenade Launcher,Gold,Mythical,377,10,42,25.89
+186,Whip,Reinforced Concrete,Mythical,446,16,141,30.85
+187,Axe,Composite,Common,280,41,115,6.79
+188,Sniper Rifle,Steel,Common,198,75,37,20.15
+189,Bazooka,Plastic,Divine,214,96,207,48.17
+190,Staff,Obsidian,Legendary,85,52,188,31.23
+191,Blowgun,Bronze,Rare,490,22,246,45.2
+192,Flail,Titanium,Divine,456,47,58,35.99
+193,Axe,Magnesium Alloy,Epic,304,49,81,10.24
+194,Machine Gun,Reinforced Concrete,Uncommon,291,85,30,47.33
+195,Rocket Launcher,Adamantium,Legendary,150,20,207,14.02
+196,Spear,Wood,Divine,97,97,258,13.77
+197,Bow,Bronze,Mythical,93,97,19,32.61
+198,Bow,Composite,Ancient,101,15,128,15.03
+199,Machine Gun,Plastic,Epic,151,11,95,35.92
+200,Pistol,Graphene,Divine,65,97,182,22.76
+201,Rifle,Graphene,Epic,27,7,117,45.51
+202,Blowgun,Gold,Mythical,97,91,53,13.38
+203,Spear,Reinforced Concrete,Divine,129,13,297,43.91
+204,Flail,Iron,Divine,28,56,129,1.28
+205,Sword,Carbon Fiber,Common,104,69,56,20.77
+206,Mace,Diamond,Divine,73,36,263,0.68
+207,Spear,Iron,Mythical,380,26,104,30.14
+208,Plasma Gun,Wood,Mythical,209,100,141,4.42
+209,Mace,Steel,Epic,16,52,59,27.06
+210,Grenade Launcher,Adamantium,Ancient,393,47,255,27.41
+211,Throwing Star,Magnesium Alloy,Legendary,244,7,82,6.56
+212,Rifle,Reinforced Concrete,Legendary,231,86,8,7.49
+213,Scythe,Wood,Rare,465,3,75,5.78
+214,Dagger,Steel,Uncommon,186,38,44,15.58
+215,Whip,Titanium,Uncommon,135,84,99,35.22
+216,Dagger,Titanium,Rare,435,36,167,19.26
+217,Crossbow,Wood,Mythical,169,77,197,48.58
+218,Mace,Reinforced Concrete,Ancient,327,20,10,49.66
+219,Staff,Silver,Common,368,65,139,12.36
+220,Axe,Iron,Legendary,392,33,231,20.41
+221,Flail,Reinforced Concrete,Mythical,258,92,131,27.31
+222,Axe,Bronze,Mythical,349,15,145,20.14
+223,Bazooka,Mythril,Rare,500,60,26,26.29
+224,Grenade Launcher,Iron,Legendary,57,17,76,8.46
+225,Bazooka,Iron,Divine,251,93,118,24.32
+226,Bazooka,Composite,Common,500,25,16,3.52
+227,Bazooka,Diamond,Legendary,225,79,275,33.86
+228,Crossbow,Obsidian,Epic,179,27,100,2.13
+229,Throwing Star,Bronze,Epic,53,18,198,13.47
+230,Crossbow,Reinforced Concrete,Uncommon,154,15,111,9.25
+231,Bazooka,Wood,Common,500,15,64,14.15
+232,Sling,Magnesium Alloy,Mythical,238,95,49,31.06
+233,Rocket Launcher,Reinforced Concrete,Legendary,62,16,66,22.66
+234,Pistol,Bronze,Mythical,293,6,32,14.16
+235,Mace,Adamantium,Ancient,27,5,61,15.51
+236,Sword,Magnesium Alloy,Divine,260,5,106,8.32
+237,Shotgun,Steel,Ancient,315,63,194,28.11
+238,Rifle,Titanium,Uncommon,144,3,25,13.96
+239,Staff,Gold,Epic,470,17,81,10.88
+240,Throwing Star,Mythril,Ancient,373,100,78,19.3
+241,Rocket Launcher,Reinforced Concrete,Common,343,95,34,35.41
+242,Grenade Launcher,Obsidian,Mythical,184,97,275,4.59
+243,Pistol,Silver,Epic,203,27,268,35.56
+244,Grenade Launcher,Silver,Mythical,348,71,135,39.96
+245,Shotgun,Adamantium,Epic,441,90,152,29.24
+246,Mace,Obsidian,Legendary,106,17,99,25.5
+247,Staff,Gold,Legendary,171,28,73,6.55
+248,Rocket Launcher,Bronze,Common,211,55,283,37.57
+249,Shotgun,Magnesium Alloy,Epic,190,2,231,18.3
+250,Staff,Magnesium Alloy,Common,110,47,246,11.63
+251,Dagger,Titanium,Legendary,263,13,95,34.52
+252,Staff,Plastic,Legendary,90,31,170,34.34
+253,Scythe,Obsidian,Epic,408,64,189,5.47
+254,Bazooka,Obsidian,Epic,248,26,210,45.07
+255,Flail,Magnesium Alloy,Divine,189,72,201,11.93
+256,Bazooka,Composite,Epic,439,16,118,48.19
+257,Shotgun,Bronze,Rare,99,61,81,42.84
+258,Whip,Carbon Fiber,Rare,372,97,236,6.28
+259,Flail,Diamond,Ancient,304,1,111,44.1
+260,Rifle,Bronze,Mythical,272,61,120,44.44
+261,Bazooka,Plastic,Mythical,490,56,186,1.52
+262,Axe,Obsidian,Common,302,13,94,5.59
+263,Rifle,Obsidian,Epic,19,91,151,10.22
+264,Axe,Steel,Rare,165,5,101,15.04
+265,Plasma Gun,Composite,Epic,450,35,251,38.55
+266,Dagger,Silver,Mythical,266,8,30,43.16
+267,Throwing Star,Carbon Fiber,Rare,167,41,72,45.9
+268,Grenade Launcher,Carbon Fiber,Common,371,32,4,27.48
+269,Whip,Mythril,Uncommon,153,83,166,12.99
+270,Scythe,Obsidian,Common,333,93,266,8.34
+271,Staff,Obsidian,Legendary,367,70,199,41.7
+272,Sword,Obsidian,Ancient,499,47,117,46.64
+273,Bazooka,Graphene,Common,270,11,86,48.7
+274,Rocket Launcher,Reinforced Concrete,Divine,358,45,38,15.13
+275,Laser Gun,Diamond,Divine,182,84,51,1.59
+276,Flail,Reinforced Concrete,Divine,256,85,20,4.42
+277,Sword,Steel,Epic,453,52,234,47.36
+278,Dagger,Gold,Ancient,289,29,271,8.77
+279,Grenade Launcher,Composite,Mythical,424,18,65,41.14
+280,Bazooka,Graphene,Divine,15,72,236,8.32
+281,Staff,Plastic,Common,86,44,198,5.47
+282,Scythe,Composite,Epic,122,69,133,37.29
+283,Bazooka,Plastic,Divine,112,20,22,3.26
+284,Bazooka,Titanium,Mythical,93,47,100,2.88
+285,Hammer,Mythril,Common,454,3,294,18.15
+286,Sniper Rifle,Titanium,Legendary,84,8,272,24.78
+287,Plasma Gun,Composite,Epic,340,89,100,47.86
+288,Throwing Star,Iron,Divine,445,17,135,43.76
+289,Blowgun,Plastic,Mythical,385,5,217,17.92
+290,Laser Gun,Plastic,Rare,467,55,141,3.91
+291,Spear,Graphene,Mythical,149,42,83,2.91
+292,Flail,Iron,Divine,25,84,163,47.1
+293,Rocket Launcher,Plastic,Legendary,101,78,149,5.14
+294,Sword,Plastic,Uncommon,460,86,94,8.49
+295,Bazooka,Obsidian,Divine,131,67,285,22.59
+296,Hammer,Silver,Rare,443,36,195,40.76
+297,Blowgun,Diamond,Divine,101,13,247,26.21
+298,Shotgun,Titanium,Common,173,57,105,43.06
+299,Pistol,Carbon Fiber,Divine,333,76,235,37.82
+300,Flail,Steel,Uncommon,52,46,125,16.76
+301,Rocket Launcher,Graphene,Legendary,344,15,97,35.01
+302,Blowgun,Plastic,Legendary,164,97,199,21.69
+303,Machine Gun,Gold,Common,162,7,259,35.4
+304,Shotgun,Magnesium Alloy,Divine,301,53,291,32.41
+305,Blowgun,Wood,Mythical,330,82,109,38.59
+306,Grenade Launcher,Bronze,Legendary,111,82,216,10.43
+307,Bazooka,Wood,Common,274,94,14,20.13
+308,Spear,Reinforced Concrete,Rare,297,53,44,5.59
+309,Crossbow,Mythril,Divine,350,89,208,21.3
+310,Grenade Launcher,Silver,Uncommon,448,59,170,25.16
+311,Laser Gun,Titanium,Mythical,191,49,216,47.41
+312,Crossbow,Diamond,Ancient,87,13,54,7.04
+313,Blowgun,Composite,Rare,18,82,242,38.61
+314,Bazooka,Reinforced Concrete,Epic,395,99,36,10.51
+315,Sniper Rifle,Reinforced Concrete,Legendary,218,89,66,16.86
+316,Hammer,Gold,Mythical,360,37,275,14.03
+317,Staff,Carbon Fiber,Divine,56,10,162,14.1
+318,Blowgun,Steel,Uncommon,57,74,292,36.77
+319,Hammer,Adamantium,Divine,392,57,63,3.17
+320,Dagger,Composite,Legendary,190,2,171,19.99
+321,Bazooka,Bronze,Divine,170,33,168,1.22
+322,Throwing Star,Silver,Mythical,191,17,149,30.2
+323,Staff,Silver,Mythical,218,8,104,32.17
+324,Sniper Rifle,Plastic,Epic,229,11,125,11.96
+325,Axe,Reinforced Concrete,Uncommon,385,97,12,11.84
+326,Laser Gun,Magnesium Alloy,Uncommon,352,61,275,31.73
+327,Crossbow,Gold,Legendary,82,72,91,42.13
+328,Rifle,Bronze,Legendary,412,66,118,16.24
+329,Whip,Adamantium,Mythical,297,19,1,24.61
+330,Spear,Wood,Rare,307,7,49,20.92
+331,Hammer,Gold,Common,357,49,111,5.82
+332,Blowgun,Silver,Ancient,358,78,79,32.64
+333,Flail,Graphene,Legendary,258,26,90,49.33
+334,Bow,Titanium,Rare,116,47,266,45.97
+335,Laser Gun,Adamantium,Uncommon,217,64,36,10.01
+336,Mace,Iron,Rare,19,2,294,18.28
+337,Throwing Star,Reinforced Concrete,Ancient,417,17,201,15.43
+338,Laser Gun,Silver,Uncommon,233,39,194,17.38
+339,Whip,Reinforced Concrete,Mythical,433,59,183,1.65
+340,Flail,Adamantium,Rare,347,35,16,9.99
+341,Machine Gun,Obsidian,Uncommon,215,46,170,48.29
+342,Plasma Gun,Graphene,Common,227,38,212,32.36
+343,Sling,Steel,Mythical,176,59,169,34.03
+344,Bazooka,Adamantium,Uncommon,469,26,91,35.7
+345,Plasma Gun,Composite,Mythical,290,55,281,32.25
+346,Pistol,Plastic,Legendary,134,23,52,25.35
+347,Laser Gun,Titanium,Rare,175,39,189,41.08
+348,Sniper Rifle,Diamond,Uncommon,403,29,223,30.28
+349,Shotgun,Obsidian,Divine,472,38,22,38.06
+350,Throwing Star,Composite,Ancient,401,93,118,37.13
+351,Laser Gun,Mythril,Uncommon,254,76,59,23.55
+352,Bow,Carbon Fiber,Rare,410,51,115,0.65
+353,Staff,Adamantium,Legendary,480,1,277,0.88
+354,Throwing Star,Magnesium Alloy,Epic,239,57,205,29.44
+355,Rocket Launcher,Composite,Ancient,327,6,8,16.48
+356,Machine Gun,Gold,Ancient,488,82,76,37.83
+357,Machine Gun,Graphene,Rare,325,28,19,41.48
+358,Flail,Titanium,Ancient,327,93,158,42.71
+359,Sniper Rifle,Iron,Uncommon,61,22,4,39.84
+360,Hammer,Diamond,Divine,275,51,164,27.62
+361,Grenade Launcher,Steel,Divine,494,61,208,3.16
+362,Dagger,Plastic,Divine,38,80,237,32.97
+363,Blowgun,Magnesium Alloy,Ancient,187,8,187,36.44
+364,Sling,Magnesium Alloy,Ancient,493,85,270,9.13
+365,Laser Gun,Composite,Epic,474,69,107,44.88
+366,Axe,Carbon Fiber,Mythical,313,87,126,43.51
+367,Plasma Gun,Diamond,Rare,211,17,54,29.06
+368,Pistol,Composite,Divine,261,90,74,49.01
+369,Dagger,Wood,Legendary,484,79,163,36.66
+370,Plasma Gun,Iron,Legendary,134,85,255,9.14
+371,Scythe,Reinforced Concrete,Ancient,11,58,280,49.03
+372,Spear,Wood,Legendary,487,85,285,36.07
+373,Sword,Titanium,Ancient,195,4,80,30.12
+374,Flail,Composite,Ancient,435,20,136,45.32
+375,Laser Gun,Plastic,Common,267,39,155,10.58
+376,Hammer,Iron,Divine,405,86,124,14.51
+377,Staff,Diamond,Ancient,51,20,200,23.09
+378,Sniper Rifle,Magnesium Alloy,Legendary,14,30,285,43.09
+379,Throwing Star,Silver,Rare,323,1,137,8.1
+380,Shotgun,Mythril,Legendary,239,90,261,37.65
+381,Dagger,Carbon Fiber,Rare,409,66,148,31.77
+382,Grenade Launcher,Steel,Common,307,94,176,45.66
+383,Dagger,Graphene,Legendary,386,59,125,38.0
+384,Sling,Graphene,Mythical,389,43,255,44.71
+385,Flail,Composite,Common,173,2,260,43.1
+386,Laser Gun,Wood,Rare,21,72,74,46.82
+387,Pistol,Diamond,Legendary,246,11,250,31.59
+388,Crossbow,Wood,Rare,356,49,115,9.58
+389,Plasma Gun,Graphene,Rare,67,39,22,12.56
+390,Blowgun,Obsidian,Ancient,420,19,168,16.61
+391,Crossbow,Bronze,Rare,249,5,17,1.23
+392,Flail,Wood,Ancient,243,37,177,12.3
+393,Rocket Launcher,Reinforced Concrete,Ancient,37,98,224,4.14
+394,Axe,Adamantium,Rare,99,35,24,15.75
+395,Mace,Gold,Rare,206,44,87,30.26
+396,Axe,Composite,Rare,467,60,297,25.87
+397,Hammer,Carbon Fiber,Common,326,2,100,38.15
+398,Throwing Star,Wood,Epic,341,80,240,16.22
+399,Laser Gun,Composite,Divine,36,44,263,47.9
+400,Dagger,Steel,Mythical,173,61,228,11.68
+401,Sniper Rifle,Wood,Divine,438,4,197,25.05
+402,Blowgun,Gold,Uncommon,391,14,92,49.27
+403,Bow,Graphene,Rare,389,43,108,10.98
+404,Spear,Graphene,Uncommon,168,47,122,49.95
+405,Scythe,Wood,Uncommon,150,45,19,33.37
+406,Bow,Reinforced Concrete,Legendary,290,26,123,31.08
+407,Dagger,Reinforced Concrete,Rare,215,90,189,1.09
+408,Grenade Launcher,Carbon Fiber,Mythical,71,84,183,6.71
+409,Sling,Steel,Uncommon,37,45,135,10.67
+410,Sword,Steel,Legendary,494,3,113,24.66
+411,Bow,Iron,Uncommon,441,91,288,38.59
+412,Plasma Gun,Graphene,Legendary,75,36,279,17.05
+413,Hammer,Plastic,Rare,221,6,296,1.29
+414,Axe,Titanium,Epic,449,100,174,17.99
+415,Pistol,Adamantium,Mythical,473,31,260,46.36
+416,Sniper Rifle,Diamond,Epic,383,40,156,20.4
+417,Shotgun,Magnesium Alloy,Divine,208,22,163,1.83
+418,Throwing Star,Steel,Legendary,477,26,258,23.97
+419,Dagger,Diamond,Epic,484,75,25,39.73
+420,Sword,Bronze,Divine,28,9,199,11.44
+421,Sword,Steel,Epic,130,81,34,37.87
+422,Mace,Obsidian,Uncommon,168,51,51,23.72
+423,Sniper Rifle,Carbon Fiber,Divine,330,91,210,2.7
+424,Bow,Reinforced Concrete,Common,438,72,92,46.55
+425,Sword,Steel,Divine,320,50,213,5.8
+426,Throwing Star,Gold,Rare,168,90,91,20.26
+427,Shotgun,Gold,Mythical,460,87,263,40.22
+428,Sniper Rifle,Adamantium,Uncommon,221,2,112,30.01
+429,Rifle,Steel,Common,257,35,241,38.46
+430,Machine Gun,Silver,Rare,188,54,49,3.03
+431,Machine Gun,Diamond,Ancient,343,70,236,49.06
+432,Sword,Iron,Divine,207,15,222,3.23
+433,Rocket Launcher,Reinforced Concrete,Epic,279,14,32,11.82
+434,Flail,Bronze,Rare,30,33,11,48.42
+435,Pistol,Bronze,Mythical,270,16,293,42.03
+436,Spear,Bronze,Uncommon,299,71,194,36.32
+437,Axe,Bronze,Ancient,14,99,121,26.1
+438,Grenade Launcher,Obsidian,Uncommon,90,24,223,14.29
+439,Spear,Carbon Fiber,Ancient,419,4,124,19.15
+440,Machine Gun,Steel,Common,492,30,231,45.84
+441,Sling,Magnesium Alloy,Rare,141,57,97,6.39
+442,Scythe,Gold,Legendary,170,42,166,31.33
+443,Axe,Bronze,Mythical,201,85,148,4.42
+444,Rocket Launcher,Obsidian,Ancient,254,29,170,27.02
+445,Bow,Mythril,Legendary,34,64,33,32.96
+446,Rifle,Titanium,Mythical,281,30,70,39.9
+447,Rifle,Iron,Divine,226,78,162,41.91
+448,Whip,Silver,Common,112,37,213,13.36
+449,Sling,Wood,Uncommon,90,47,87,34.33
+450,Bazooka,Obsidian,Legendary,134,33,280,42.51
+451,Rifle,Steel,Common,289,7,166,48.19
+452,Throwing Star,Composite,Epic,84,75,115,19.09
+453,Sling,Composite,Legendary,257,45,22,29.14
+454,Machine Gun,Composite,Rare,381,27,172,45.29
+455,Staff,Gold,Rare,487,47,9,49.11
+456,Laser Gun,Magnesium Alloy,Rare,418,36,110,35.87
+457,Sniper Rifle,Magnesium Alloy,Legendary,291,33,277,49.44
+458,Spear,Reinforced Concrete,Epic,252,19,250,21.2
+459,Rifle,Obsidian,Epic,331,58,19,8.75
+460,Hammer,Wood,Uncommon,330,30,40,20.83
+461,Staff,Obsidian,Epic,189,18,51,13.22
+462,Flail,Mythril,Epic,409,86,157,15.27
+463,Sling,Graphene,Legendary,311,55,45,0.98
+464,Sling,Magnesium Alloy,Divine,40,75,80,14.45
+465,Sword,Carbon Fiber,Divine,415,32,62,2.39
+466,Throwing Star,Plastic,Legendary,492,62,224,2.55
+467,Rifle,Magnesium Alloy,Divine,59,12,180,23.48
+468,Throwing Star,Adamantium,Ancient,59,1,50,24.49
+469,Sling,Steel,Legendary,70,24,170,16.2
+470,Machine Gun,Magnesium Alloy,Epic,234,33,170,39.02
+471,Sling,Wood,Common,91,37,280,37.13
+472,Rifle,Diamond,Ancient,267,61,255,45.44
+473,Grenade Launcher,Gold,Uncommon,375,8,151,41.84
+474,Mace,Graphene,Ancient,415,64,147,35.65
+475,Staff,Titanium,Ancient,219,55,1,11.91
+476,Rifle,Silver,Divine,152,14,228,41.23
+477,Shotgun,Composite,Epic,176,32,75,20.76
+478,Hammer,Gold,Divine,485,90,189,18.57
+479,Sniper Rifle,Magnesium Alloy,Common,319,71,235,46.56
+480,Laser Gun,Bronze,Common,110,31,94,6.71
+481,Staff,Gold,Legendary,153,95,122,12.35
+482,Scythe,Steel,Epic,370,71,164,48.85
+483,Bazooka,Gold,Divine,256,20,212,19.94
+484,Sling,Carbon Fiber,Rare,346,44,220,25.2
+485,Staff,Diamond,Ancient,44,98,291,31.75
+486,Grenade Launcher,Obsidian,Ancient,262,44,65,43.22
+487,Scythe,Reinforced Concrete,Rare,307,86,65,15.01
+488,Scythe,Adamantium,Epic,461,3,295,18.13
+489,Scythe,Plastic,Ancient,443,12,81,20.1
+490,Whip,Diamond,Ancient,247,48,88,8.0
+491,Hammer,Composite,Common,474,59,213,42.87
+492,Rifle,Silver,Uncommon,204,36,60,38.68
+493,Flail,Steel,Legendary,151,15,188,6.01
+494,Axe,Diamond,Rare,233,55,35,27.86
+495,Flail,Diamond,Rare,234,84,279,35.51
+496,Blowgun,Plastic,Uncommon,292,98,282,8.54
+497,Hammer,Diamond,Legendary,348,37,158,32.09
+498,Sword,Gold,Mythical,144,81,218,29.02
+499,Scythe,Composite,Epic,278,74,56,20.27
+500,Axe,Plastic,Uncommon,142,58,56,30.05
+501,Throwing Star,Silver,Common,455,35,219,46.87
+502,Staff,Mythril,Common,171,35,243,36.8
+503,Hammer,Titanium,Rare,144,82,297,44.13
+504,Spear,Gold,Ancient,199,57,1,19.32
+505,Whip,Titanium,Epic,68,81,54,5.68
+506,Shotgun,Magnesium Alloy,Ancient,426,20,109,27.7
+507,Bazooka,Silver,Common,323,60,69,40.46
+508,Sword,Bronze,Uncommon,235,24,91,5.72
+509,Staff,Composite,Legendary,468,70,200,17.01
+510,Spear,Silver,Uncommon,319,18,22,3.08
+511,Mace,Titanium,Ancient,47,12,75,24.3
+512,Hammer,Diamond,Legendary,131,90,277,45.1
+513,Plasma Gun,Iron,Rare,69,16,277,20.82
+514,Mace,Titanium,Epic,419,76,181,40.63
+515,Plasma Gun,Gold,Ancient,271,80,51,25.17
+516,Laser Gun,Graphene,Rare,373,35,123,38.69
+517,Rifle,Silver,Common,357,33,244,37.53
+518,Crossbow,Bronze,Epic,485,34,29,34.4
+519,Flail,Silver,Uncommon,84,73,110,40.47
+520,Laser Gun,Graphene,Epic,346,41,88,33.42
+521,Dagger,Reinforced Concrete,Divine,437,78,240,13.76
+522,Sling,Steel,Ancient,446,71,14,31.67
+523,Bazooka,Silver,Divine,36,60,174,30.03
+524,Throwing Star,Gold,Divine,93,26,275,22.29
+525,Sniper Rifle,Magnesium Alloy,Epic,67,37,52,42.01
+526,Grenade Launcher,Composite,Ancient,160,1,41,14.84
+527,Dagger,Reinforced Concrete,Rare,402,65,179,11.03
+528,Laser Gun,Carbon Fiber,Uncommon,380,63,297,16.89
+529,Shotgun,Wood,Rare,260,48,215,43.54
+530,Hammer,Bronze,Common,170,33,58,20.93
+531,Pistol,Graphene,Legendary,84,95,200,41.04
+532,Laser Gun,Plastic,Rare,294,67,100,29.56
+533,Scythe,Titanium,Uncommon,67,98,243,13.8
+534,Grenade Launcher,Silver,Common,377,71,234,21.97
+535,Spear,Iron,Common,20,89,175,23.02
+536,Rifle,Iron,Common,335,36,48,31.96
+537,Sling,Steel,Epic,336,27,297,48.78
+538,Laser Gun,Iron,Uncommon,206,21,223,15.02
+539,Crossbow,Bronze,Uncommon,119,84,123,7.15
+540,Grenade Launcher,Iron,Common,12,89,112,3.21
+541,Sword,Obsidian,Uncommon,314,51,193,36.81
+542,Laser Gun,Adamantium,Ancient,264,52,217,12.89
+543,Bazooka,Plastic,Ancient,263,60,203,1.66
+544,Bazooka,Plastic,Mythical,25,61,250,26.02
+545,Pistol,Wood,Mythical,26,71,104,27.54
+546,Blowgun,Iron,Common,120,77,296,30.89
+547,Bow,Magnesium Alloy,Ancient,120,81,224,1.46
+548,Scythe,Composite,Rare,65,54,200,19.48
+549,Sniper Rifle,Carbon Fiber,Ancient,156,7,87,32.31
+550,Crossbow,Reinforced Concrete,Epic,283,81,248,8.85
+551,Bazooka,Silver,Legendary,348,76,144,25.8
+552,Blowgun,Gold,Mythical,270,62,212,2.72
+553,Sling,Bronze,Ancient,455,78,222,32.61
+554,Spear,Steel,Rare,444,96,163,24.39
+555,Laser Gun,Graphene,Mythical,127,100,201,49.46
+556,Flail,Silver,Epic,355,81,238,47.14
+557,Pistol,Titanium,Legendary,186,50,82,31.12
+558,Sniper Rifle,Graphene,Mythical,118,25,292,9.42
+559,Blowgun,Titanium,Rare,182,33,153,30.14
+560,Dagger,Iron,Legendary,73,21,105,41.07
+561,Flail,Graphene,Ancient,398,47,188,13.83
+562,Sniper Rifle,Silver,Rare,391,26,92,22.03
+563,Throwing Star,Graphene,Legendary,278,97,24,32.74
+564,Shotgun,Bronze,Rare,407,3,114,38.59
+565,Whip,Diamond,Rare,60,84,217,34.54
+566,Pistol,Magnesium Alloy,Rare,189,33,16,42.83
+567,Blowgun,Plastic,Epic,60,36,271,43.91
+568,Shotgun,Plastic,Legendary,495,84,42,2.1
+569,Blowgun,Obsidian,Common,478,92,131,14.63
+570,Rocket Launcher,Mythril,Mythical,475,26,127,16.24
+571,Machine Gun,Composite,Ancient,233,89,24,21.82
+572,Grenade Launcher,Iron,Uncommon,346,3,92,31.75
+573,Crossbow,Magnesium Alloy,Divine,60,23,183,28.73
+574,Bow,Titanium,Mythical,56,73,254,24.72
+575,Machine Gun,Diamond,Uncommon,430,1,213,46.73
+576,Spear,Obsidian,Legendary,152,73,273,38.73
+577,Dagger,Reinforced Concrete,Common,462,37,282,47.71
+578,Rocket Launcher,Silver,Divine,150,76,51,35.13
+579,Blowgun,Graphene,Epic,273,17,280,42.56
+580,Rifle,Reinforced Concrete,Uncommon,194,27,192,34.02
+581,Rifle,Titanium,Uncommon,408,40,267,12.49
+582,Sword,Graphene,Mythical,272,36,67,31.16
+583,Whip,Silver,Legendary,87,70,44,8.43
+584,Sniper Rifle,Diamond,Ancient,221,67,291,24.93
+585,Bow,Iron,Divine,79,13,269,46.04
+586,Rocket Launcher,Graphene,Ancient,37,72,9,45.68
+587,Sniper Rifle,Carbon Fiber,Rare,430,90,147,16.89
+588,Throwing Star,Graphene,Legendary,350,62,179,12.56
+589,Spear,Magnesium Alloy,Common,230,79,230,42.7
+590,Staff,Silver,Divine,368,63,298,38.17
+591,Scythe,Silver,Legendary,319,86,207,6.97
+592,Scythe,Graphene,Mythical,44,17,275,25.81
+593,Laser Gun,Steel,Ancient,76,64,185,33.82
+594,Staff,Reinforced Concrete,Mythical,497,100,44,30.22
+595,Hammer,Reinforced Concrete,Divine,249,62,28,24.5
+596,Mace,Steel,Mythical,214,86,106,45.53
+597,Dagger,Titanium,Epic,63,78,88,25.49
+598,Sword,Iron,Epic,187,82,206,35.69
+599,Plasma Gun,Silver,Common,277,39,31,8.86
+600,Axe,Reinforced Concrete,Uncommon,392,17,138,0.82
+601,Grenade Launcher,Plastic,Rare,375,53,102,28.32
+602,Staff,Silver,Uncommon,151,7,150,44.65
+603,Pistol,Gold,Ancient,34,1,117,34.54
+604,Crossbow,Bronze,Rare,110,63,230,47.78
+605,Crossbow,Titanium,Divine,53,59,253,14.43
+606,Pistol,Iron,Mythical,331,16,164,27.15
+607,Machine Gun,Adamantium,Rare,330,20,17,35.72
+608,Flail,Gold,Divine,461,76,188,40.58
+609,Crossbow,Bronze,Common,149,77,118,37.55
+610,Scythe,Bronze,Uncommon,272,40,3,43.63
+611,Shotgun,Bronze,Epic,479,75,28,11.56
+612,Whip,Carbon Fiber,Epic,290,53,233,37.49
+613,Sniper Rifle,Graphene,Ancient,319,21,255,17.61
+614,Staff,Composite,Epic,51,94,268,33.98
+615,Sniper Rifle,Obsidian,Epic,218,23,200,2.88
+616,Scythe,Silver,Legendary,57,97,273,27.84
+617,Grenade Launcher,Mythril,Divine,86,35,272,49.27
+618,Plasma Gun,Titanium,Ancient,85,1,9,22.07
+619,Laser Gun,Carbon Fiber,Legendary,312,16,19,3.92
+620,Shotgun,Iron,Legendary,434,92,67,31.04
+621,Dagger,Mythril,Uncommon,62,65,212,28.66
+622,Dagger,Steel,Epic,452,45,117,34.37
+623,Sniper Rifle,Composite,Common,436,29,202,11.55
+624,Crossbow,Iron,Divine,163,27,290,39.26
+625,Rocket Launcher,Adamantium,Legendary,154,31,116,26.82
+626,Bow,Bronze,Epic,107,18,89,22.96
+627,Bazooka,Carbon Fiber,Legendary,335,40,114,6.37
+628,Dagger,Steel,Common,347,86,250,6.17
+629,Crossbow,Gold,Mythical,24,15,46,35.95
+630,Staff,Reinforced Concrete,Uncommon,378,25,78,40.08
+631,Machine Gun,Silver,Divine,355,35,68,22.0
+632,Scythe,Magnesium Alloy,Common,328,17,199,37.82
+633,Pistol,Bronze,Legendary,133,95,84,9.32
+634,Pistol,Mythril,Ancient,389,88,14,26.71
+635,Sword,Reinforced Concrete,Uncommon,76,56,58,32.43
+636,Bow,Magnesium Alloy,Legendary,311,27,133,2.89
+637,Blowgun,Composite,Mythical,27,56,253,29.24
+638,Crossbow,Wood,Legendary,152,79,279,45.67
+639,Crossbow,Titanium,Epic,23,100,217,30.25
+640,Rifle,Magnesium Alloy,Mythical,445,20,132,48.02
+641,Sniper Rifle,Wood,Uncommon,126,52,3,21.15
+642,Dagger,Obsidian,Epic,357,79,135,17.61
+643,Throwing Star,Adamantium,Uncommon,68,57,233,40.78
+644,Rifle,Carbon Fiber,Common,322,59,50,16.33
+645,Dagger,Titanium,Ancient,233,98,265,43.6
+646,Rifle,Iron,Uncommon,316,13,114,33.5
+647,Grenade Launcher,Obsidian,Common,314,53,238,38.77
+648,Crossbow,Titanium,Common,402,39,136,48.29
+649,Sniper Rifle,Wood,Rare,199,55,158,42.43
+650,Mace,Composite,Divine,400,39,268,11.81
+651,Blowgun,Wood,Uncommon,424,6,166,17.88
+652,Sniper Rifle,Mythril,Rare,311,18,125,39.28
+653,Whip,Gold,Uncommon,270,4,90,48.75
+654,Whip,Composite,Ancient,121,74,227,8.57
+655,Whip,Magnesium Alloy,Ancient,258,2,266,44.22
+656,Plasma Gun,Plastic,Uncommon,116,40,92,6.59
+657,Sling,Bronze,Mythical,423,1,128,44.4
+658,Blowgun,Carbon Fiber,Rare,95,87,259,17.52
+659,Axe,Mythril,Legendary,375,28,94,7.61
+660,Laser Gun,Carbon Fiber,Mythical,330,29,288,29.83
+661,Sword,Magnesium Alloy,Ancient,282,32,54,24.9
+662,Hammer,Bronze,Ancient,453,45,71,9.48
+663,Sniper Rifle,Diamond,Ancient,231,21,142,4.52
+664,Sling,Bronze,Uncommon,37,98,106,33.97
+665,Axe,Diamond,Uncommon,78,30,117,1.2
+666,Flail,Iron,Rare,259,34,238,4.59
+667,Pistol,Composite,Epic,371,46,195,42.44
+668,Shotgun,Gold,Uncommon,156,97,223,7.61
+669,Axe,Gold,Ancient,272,77,223,23.93
+670,Laser Gun,Magnesium Alloy,Uncommon,349,33,291,31.61
+671,Blowgun,Iron,Uncommon,462,92,194,38.45
+672,Pistol,Graphene,Common,239,47,215,35.33
+673,Dagger,Magnesium Alloy,Divine,191,79,281,37.56
+674,Scythe,Magnesium Alloy,Uncommon,63,72,118,44.5
+675,Plasma Gun,Mythril,Uncommon,119,73,188,4.13
+676,Rocket Launcher,Graphene,Legendary,256,47,218,22.85
+677,Mace,Mythril,Rare,432,78,261,31.52
+678,Sling,Obsidian,Epic,278,67,221,36.98
+679,Hammer,Gold,Ancient,259,50,48,13.76
+680,Laser Gun,Diamond,Epic,484,89,190,37.6
+681,Hammer,Bronze,Divine,171,43,134,45.94
+682,Bow,Graphene,Ancient,50,52,74,8.44
+683,Sling,Bronze,Divine,365,57,53,48.43
+684,Shotgun,Plastic,Epic,131,76,29,21.16
+685,Laser Gun,Titanium,Rare,67,92,165,33.77
+686,Mace,Titanium,Mythical,445,99,236,28.31
+687,Grenade Launcher,Obsidian,Rare,418,86,263,23.39
+688,Flail,Wood,Legendary,329,18,73,38.42
+689,Bazooka,Plastic,Legendary,284,20,138,44.93
+690,Hammer,Graphene,Mythical,221,92,127,8.35
+691,Blowgun,Gold,Divine,160,23,222,19.85
+692,Blowgun,Plastic,Legendary,413,53,288,32.53
+693,Hammer,Diamond,Common,42,57,243,19.99
+694,Throwing Star,Steel,Mythical,59,27,215,31.66
+695,Staff,Magnesium Alloy,Common,241,71,123,26.75
+696,Flail,Diamond,Divine,212,30,115,38.03
+697,Pistol,Obsidian,Common,250,73,127,45.99
+698,Whip,Diamond,Legendary,255,68,176,47.37
+699,Dagger,Wood,Ancient,478,36,249,18.87
+700,Pistol,Diamond,Common,64,83,36,29.75
+701,Plasma Gun,Gold,Divine,98,70,151,28.43
+702,Rifle,Obsidian,Legendary,161,12,258,39.85
+703,Grenade Launcher,Magnesium Alloy,Mythical,214,97,258,10.54
+704,Shotgun,Iron,Uncommon,304,15,274,45.12
+705,Hammer,Bronze,Uncommon,149,8,93,35.69
+706,Bazooka,Plastic,Divine,255,47,19,17.46
+707,Throwing Star,Titanium,Rare,307,28,134,12.42
+708,Crossbow,Graphene,Mythical,401,17,58,4.53
+709,Spear,Composite,Common,280,77,50,49.1
+710,Scythe,Obsidian,Rare,340,35,28,6.69
+711,Bow,Composite,Uncommon,251,40,178,7.32
+712,Mace,Steel,Divine,374,66,75,35.6
+713,Throwing Star,Plastic,Mythical,463,21,163,3.95
+714,Bow,Composite,Common,397,20,243,10.86
+715,Pistol,Graphene,Epic,217,3,171,26.71
+716,Staff,Plastic,Divine,64,67,278,40.77
+717,Bazooka,Diamond,Rare,239,49,22,22.5
+718,Spear,Obsidian,Legendary,170,43,148,7.62
+719,Laser Gun,Carbon Fiber,Mythical,266,79,94,32.85
+720,Bazooka,Plastic,Legendary,199,62,242,39.0
+721,Plasma Gun,Silver,Common,125,21,282,21.18
+722,Scythe,Steel,Divine,47,59,117,28.23
+723,Grenade Launcher,Obsidian,Divine,260,64,245,2.96
+724,Bow,Titanium,Ancient,366,27,91,2.49
+725,Plasma Gun,Bronze,Divine,306,89,30,0.81
+726,Axe,Mythril,Divine,403,36,165,3.19
+727,Laser Gun,Reinforced Concrete,Ancient,295,25,54,26.91
+728,Hammer,Silver,Rare,385,14,120,11.35
+729,Throwing Star,Diamond,Uncommon,354,48,270,37.89
+730,Rocket Launcher,Reinforced Concrete,Uncommon,123,1,147,5.09
+731,Mace,Obsidian,Epic,260,73,110,20.27
+732,Laser Gun,Obsidian,Rare,423,80,80,28.88
+733,Scythe,Diamond,Common,429,24,270,1.71
+734,Sword,Diamond,Legendary,277,59,296,22.05
+735,Bow,Titanium,Uncommon,413,78,6,26.96
+736,Sniper Rifle,Composite,Common,193,37,206,27.22
+737,Dagger,Bronze,Divine,208,19,114,16.01
+738,Pistol,Gold,Epic,362,36,9,43.79
+739,Flail,Gold,Common,457,81,119,22.91
+740,Rifle,Bronze,Ancient,335,33,218,43.94
+741,Rifle,Gold,Legendary,415,5,97,7.73
+742,Hammer,Mythril,Ancient,293,2,170,10.41
+743,Sword,Titanium,Uncommon,198,58,262,29.3
+744,Mace,Graphene,Epic,189,2,85,8.77
+745,Blowgun,Wood,Legendary,422,80,231,39.6
+746,Rifle,Diamond,Legendary,418,52,256,16.12
+747,Plasma Gun,Bronze,Ancient,34,90,11,11.67
+748,Grenade Launcher,Plastic,Epic,401,46,42,4.86
+749,Machine Gun,Mythril,Epic,206,28,77,7.9
+750,Rocket Launcher,Plastic,Epic,147,18,192,28.94
+751,Plasma Gun,Iron,Common,201,89,255,33.45
+752,Sword,Steel,Divine,156,3,147,21.03
+753,Machine Gun,Reinforced Concrete,Common,162,27,208,29.29
+754,Sword,Carbon Fiber,Legendary,309,7,270,30.97
+755,Axe,Composite,Legendary,191,62,46,46.1
+756,Sword,Iron,Legendary,300,77,281,20.51
+757,Throwing Star,Composite,Legendary,94,43,37,30.99
+758,Rifle,Adamantium,Ancient,17,38,195,12.18
+759,Sling,Plastic,Common,418,84,146,39.55
+760,Mace,Carbon Fiber,Ancient,400,45,106,33.45
+761,Sword,Graphene,Legendary,433,48,67,22.54
+762,Sword,Titanium,Epic,347,22,29,24.67
+763,Hammer,Obsidian,Rare,493,27,165,26.0
+764,Grenade Launcher,Obsidian,Uncommon,349,45,93,18.38
+765,Axe,Titanium,Uncommon,134,81,188,22.07
+766,Sword,Wood,Divine,124,54,272,1.31
+767,Whip,Adamantium,Mythical,118,60,150,34.36
+768,Spear,Bronze,Ancient,459,36,271,6.76
+769,Grenade Launcher,Iron,Rare,110,20,124,15.28
+770,Scythe,Carbon Fiber,Mythical,142,88,66,46.0
+771,Grenade Launcher,Obsidian,Uncommon,128,86,127,15.25
+772,Sniper Rifle,Carbon Fiber,Mythical,68,81,290,32.65
+773,Pistol,Graphene,Legendary,349,20,248,20.24
+774,Sword,Bronze,Divine,190,93,200,49.6
+775,Blowgun,Gold,Mythical,442,12,238,49.42
+776,Rocket Launcher,Composite,Epic,124,83,2,29.33
+777,Staff,Steel,Mythical,230,48,124,0.59
+778,Scythe,Magnesium Alloy,Mythical,352,39,201,27.2
+779,Grenade Launcher,Silver,Ancient,188,57,267,3.13
+780,Laser Gun,Steel,Epic,374,87,14,41.16
+781,Crossbow,Reinforced Concrete,Divine,290,70,207,0.91
+782,Bazooka,Reinforced Concrete,Rare,122,74,67,37.21
+783,Rocket Launcher,Gold,Legendary,12,69,27,48.41
+784,Laser Gun,Silver,Mythical,70,25,17,41.32
+785,Crossbow,Graphene,Epic,408,80,135,19.33
+786,Dagger,Mythril,Mythical,469,19,56,37.92
+787,Hammer,Titanium,Common,175,49,26,13.59
+788,Rocket Launcher,Bronze,Rare,151,48,59,18.47
+789,Shotgun,Silver,Common,393,10,212,16.01
+790,Pistol,Silver,Legendary,104,23,85,30.19
+791,Dagger,Plastic,Epic,461,63,92,4.55
+792,Staff,Obsidian,Divine,293,23,134,47.28
+793,Pistol,Gold,Uncommon,297,61,67,17.79
+794,Whip,Titanium,Mythical,47,82,258,30.85
+795,Rocket Launcher,Silver,Common,444,77,139,9.72
+796,Laser Gun,Bronze,Legendary,426,81,298,14.18
+797,Blowgun,Graphene,Legendary,402,65,61,2.69
+798,Sniper Rifle,Adamantium,Rare,313,62,161,10.0
+799,Spear,Adamantium,Rare,154,19,259,14.9
+800,Blowgun,Graphene,Mythical,271,4,119,37.09
+801,Crossbow,Silver,Ancient,359,24,194,28.41
+802,Plasma Gun,Bronze,Epic,342,70,219,14.08
+803,Throwing Star,Adamantium,Rare,16,8,141,10.98
+804,Sword,Plastic,Ancient,356,61,151,29.15
+805,Bow,Titanium,Uncommon,266,18,161,32.34
+806,Machine Gun,Steel,Ancient,243,36,42,22.74
+807,Plasma Gun,Obsidian,Divine,225,5,237,16.9
+808,Dagger,Graphene,Legendary,204,72,76,30.36
+809,Flail,Obsidian,Mythical,443,30,169,38.68
+810,Rocket Launcher,Bronze,Ancient,291,29,61,19.09
+811,Rocket Launcher,Carbon Fiber,Epic,329,24,250,4.05
+812,Dagger,Diamond,Legendary,225,30,164,33.8
+813,Pistol,Carbon Fiber,Common,220,76,176,33.72
+814,Sling,Wood,Uncommon,380,68,126,1.14
+815,Sling,Titanium,Divine,34,27,270,36.99
+816,Spear,Composite,Common,370,44,147,3.48
+817,Sling,Carbon Fiber,Common,148,9,189,0.53
+818,Spear,Iron,Rare,347,17,169,42.8
+819,Plasma Gun,Silver,Ancient,337,73,222,15.46
+820,Shotgun,Graphene,Divine,180,80,42,23.83
+821,Axe,Steel,Rare,216,98,149,29.46
+822,Staff,Gold,Divine,116,3,128,23.0
+823,Flail,Steel,Divine,222,73,72,18.77
+824,Pistol,Plastic,Rare,316,86,65,49.57
+825,Rocket Launcher,Titanium,Legendary,454,88,213,21.28
+826,Blowgun,Adamantium,Ancient,149,34,180,13.3
+827,Shotgun,Adamantium,Epic,233,85,64,1.03
+828,Plasma Gun,Graphene,Ancient,362,44,84,31.86
+829,Mace,Wood,Mythical,328,31,174,44.83
+830,Scythe,Graphene,Ancient,100,86,166,28.61
+831,Machine Gun,Wood,Divine,317,58,275,19.69
+832,Laser Gun,Magnesium Alloy,Rare,196,47,85,14.64
+833,Plasma Gun,Carbon Fiber,Mythical,52,61,16,19.1
+834,Laser Gun,Carbon Fiber,Legendary,254,56,156,35.55
+835,Pistol,Adamantium,Divine,64,37,29,8.03
+836,Blowgun,Wood,Divine,452,65,61,38.24
+837,Grenade Launcher,Graphene,Ancient,488,88,293,25.71
+838,Shotgun,Composite,Divine,390,98,231,30.3
+839,Machine Gun,Diamond,Ancient,415,10,280,11.21
+840,Mace,Obsidian,Uncommon,500,62,28,19.73
+841,Pistol,Obsidian,Rare,450,1,178,17.8
+842,Crossbow,Composite,Mythical,237,79,45,37.69
+843,Bazooka,Gold,Ancient,40,71,102,39.84
+844,Sword,Gold,Ancient,64,22,115,3.6
+845,Bow,Adamantium,Divine,291,44,248,43.62
+846,Blowgun,Mythril,Common,479,14,200,15.93
+847,Hammer,Diamond,Ancient,383,9,9,9.33
+848,Plasma Gun,Magnesium Alloy,Legendary,283,40,92,15.25
+849,Sling,Carbon Fiber,Common,311,95,195,16.38
+850,Spear,Diamond,Divine,456,8,219,22.67
+851,Plasma Gun,Gold,Mythical,256,70,183,16.63
+852,Mace,Carbon Fiber,Divine,399,33,251,14.89
+853,Laser Gun,Mythril,Rare,84,67,77,41.44
+854,Dagger,Diamond,Common,130,23,49,11.26
+855,Rifle,Diamond,Ancient,158,74,28,40.4
+856,Machine Gun,Carbon Fiber,Uncommon,238,88,222,41.09
+857,Bazooka,Graphene,Ancient,337,19,227,27.4
+858,Bow,Carbon Fiber,Epic,143,82,295,43.28
+859,Laser Gun,Carbon Fiber,Common,13,11,162,1.15
+860,Sniper Rifle,Magnesium Alloy,Rare,379,34,5,35.76
+861,Sling,Iron,Rare,445,4,231,14.45
+862,Dagger,Plastic,Legendary,385,7,165,40.53
+863,Whip,Titanium,Legendary,95,95,11,39.94
+864,Throwing Star,Titanium,Divine,16,90,87,5.7
+865,Plasma Gun,Carbon Fiber,Rare,306,77,291,33.57
+866,Shotgun,Titanium,Legendary,489,23,139,18.8
+867,Crossbow,Bronze,Common,152,73,252,35.67
+868,Crossbow,Wood,Common,424,85,148,31.3
+869,Bazooka,Gold,Ancient,289,13,9,31.47
+870,Machine Gun,Reinforced Concrete,Divine,492,21,171,48.3
+871,Shotgun,Composite,Legendary,344,34,123,20.61
+872,Mace,Plastic,Epic,334,92,121,20.93
+873,Staff,Mythril,Mythical,144,49,214,26.89
+874,Crossbow,Composite,Rare,119,16,235,39.57
+875,Rocket Launcher,Diamond,Uncommon,131,3,157,11.55
+876,Throwing Star,Titanium,Mythical,335,5,234,24.71
+877,Spear,Gold,Ancient,114,98,194,17.98
+878,Sling,Obsidian,Common,66,6,205,27.17
+879,Hammer,Iron,Epic,381,36,222,2.82
+880,Plasma Gun,Mythril,Rare,163,20,281,2.61
+881,Machine Gun,Reinforced Concrete,Legendary,368,83,206,27.66
+882,Bow,Diamond,Epic,223,52,21,5.99
+883,Crossbow,Obsidian,Common,380,30,53,9.19
+884,Mace,Gold,Common,351,80,151,39.01
+885,Hammer,Graphene,Uncommon,348,6,73,12.39
+886,Rocket Launcher,Bronze,Rare,445,9,92,19.76
+887,Mace,Diamond,Legendary,237,50,276,24.91
+888,Staff,Iron,Mythical,307,60,186,21.69
+889,Rifle,Reinforced Concrete,Common,11,70,125,49.82
+890,Grenade Launcher,Adamantium,Uncommon,25,100,100,49.57
+891,Flail,Obsidian,Ancient,356,75,299,46.37
+892,Spear,Adamantium,Ancient,250,76,114,34.77
+893,Flail,Wood,Ancient,22,11,190,14.34
+894,Crossbow,Composite,Rare,311,92,188,12.9
+895,Plasma Gun,Adamantium,Mythical,367,50,108,33.67
+896,Crossbow,Silver,Mythical,33,22,28,39.25
+897,Laser Gun,Titanium,Divine,377,14,39,23.95
+898,Rifle,Obsidian,Common,361,27,140,9.83
+899,Blowgun,Titanium,Epic,487,73,121,26.25
+900,Grenade Launcher,Mythril,Rare,287,51,183,3.99
+901,Blowgun,Carbon Fiber,Divine,422,67,55,21.92
+902,Staff,Composite,Mythical,97,82,223,48.64
+903,Laser Gun,Diamond,Ancient,359,70,181,10.7
+904,Sword,Adamantium,Uncommon,32,78,89,35.78
+905,Machine Gun,Titanium,Epic,72,20,162,3.49
+906,Rocket Launcher,Gold,Ancient,457,79,217,26.6
+907,Dagger,Gold,Legendary,75,77,156,5.5
+908,Crossbow,Plastic,Ancient,59,31,123,47.69
+909,Dagger,Mythril,Uncommon,344,93,142,22.26
+910,Rifle,Composite,Mythical,41,46,53,18.61
+911,Spear,Graphene,Uncommon,254,24,51,47.8
+912,Crossbow,Gold,Common,99,61,101,18.13
+913,Laser Gun,Magnesium Alloy,Uncommon,405,15,276,16.62
+914,Laser Gun,Graphene,Legendary,293,60,202,3.81
+915,Throwing Star,Adamantium,Rare,172,69,181,43.92
+916,Axe,Composite,Legendary,391,62,63,10.01
+917,Whip,Silver,Rare,130,13,113,18.88
+918,Staff,Graphene,Epic,348,18,152,15.4
+919,Whip,Bronze,Ancient,149,75,61,11.5
+920,Crossbow,Carbon Fiber,Epic,386,51,126,39.01
+921,Sling,Reinforced Concrete,Common,225,38,119,23.66
+922,Bow,Titanium,Mythical,56,94,276,25.86
+923,Hammer,Steel,Rare,444,87,260,33.21
+924,Machine Gun,Iron,Epic,103,36,221,43.76
+925,Sword,Silver,Rare,397,62,209,41.57
+926,Dagger,Silver,Uncommon,203,92,149,28.84
+927,Dagger,Iron,Rare,140,67,68,22.42
+928,Flail,Steel,Uncommon,280,67,134,21.6
+929,Rocket Launcher,Wood,Common,483,7,300,22.5
+930,Shotgun,Iron,Legendary,226,92,299,28.41
+931,Sling,Bronze,Uncommon,182,60,51,47.44
+932,Dagger,Magnesium Alloy,Mythical,372,41,211,36.06
+933,Sling,Reinforced Concrete,Divine,428,8,111,36.09
+934,Machine Gun,Titanium,Mythical,77,45,2,42.97
+935,Plasma Gun,Reinforced Concrete,Common,127,20,69,7.25
+936,Rifle,Magnesium Alloy,Legendary,87,75,155,23.42
+937,Blowgun,Mythril,Ancient,58,45,253,0.96
+938,Sword,Steel,Uncommon,218,14,136,1.57
+939,Plasma Gun,Reinforced Concrete,Common,214,46,16,34.92
+940,Bazooka,Gold,Legendary,20,65,102,5.99
+941,Rocket Launcher,Mythril,Mythical,138,98,12,20.92
+942,Bow,Iron,Mythical,269,95,99,13.94
+943,Sling,Iron,Legendary,419,52,257,44.84
+944,Staff,Obsidian,Common,312,21,249,8.83
+945,Shotgun,Iron,Ancient,409,9,177,38.52
+946,Rocket Launcher,Wood,Ancient,317,3,167,40.36
+947,Staff,Carbon Fiber,Legendary,149,65,133,13.46
+948,Laser Gun,Reinforced Concrete,Epic,171,94,80,7.26
+949,Scythe,Bronze,Common,298,39,280,6.13
+950,Rocket Launcher,Adamantium,Ancient,386,15,53,40.25
+951,Machine Gun,Plastic,Uncommon,128,77,232,8.94
+952,Sword,Silver,Legendary,215,23,68,10.65
+953,Plasma Gun,Composite,Mythical,242,78,287,33.8
+954,Machine Gun,Diamond,Mythical,449,84,119,49.58
+955,Pistol,Steel,Legendary,81,57,212,39.79
+956,Blowgun,Silver,Common,381,58,16,32.29
+957,Sling,Silver,Common,307,5,65,28.64
+958,Rifle,Gold,Rare,333,23,118,40.18
+959,Bow,Plastic,Uncommon,131,21,218,6.05
+960,Bow,Obsidian,Mythical,224,39,123,8.22
+961,Staff,Wood,Common,214,56,294,36.94
+962,Sword,Plastic,Mythical,399,31,77,36.32
+963,Sword,Wood,Rare,338,85,93,21.6
+964,Axe,Diamond,Common,233,97,66,46.93
+965,Hammer,Diamond,Divine,444,84,114,24.59
+966,Mace,Magnesium Alloy,Epic,197,42,7,18.68
+967,Pistol,Adamantium,Common,206,25,127,47.74
+968,Dagger,Mythril,Common,466,89,147,32.5
+969,Staff,Composite,Legendary,434,5,53,46.05
+970,Machine Gun,Graphene,Epic,259,20,10,24.26
+971,Scythe,Wood,Uncommon,202,14,31,11.1
+972,Laser Gun,Magnesium Alloy,Rare,167,88,237,1.15
+973,Flail,Plastic,Divine,114,45,218,42.29
+974,Plasma Gun,Adamantium,Common,301,34,31,29.78
+975,Sling,Composite,Ancient,195,100,176,25.05
+976,Staff,Gold,Common,101,81,273,47.51
+977,Crossbow,Diamond,Epic,271,61,67,33.28
+978,Axe,Iron,Rare,404,85,32,15.92
+979,Plasma Gun,Gold,Rare,24,25,140,4.84
+980,Hammer,Obsidian,Ancient,18,83,158,3.72
+981,Sling,Plastic,Uncommon,188,6,263,29.08
+982,Mace,Steel,Divine,235,36,36,25.59
+983,Sword,Silver,Uncommon,371,5,83,4.94
+984,Dagger,Magnesium Alloy,Legendary,473,46,160,28.98
+985,Spear,Composite,Mythical,223,75,291,16.9
+986,Sling,Carbon Fiber,Epic,407,65,281,1.85
+987,Blowgun,Obsidian,Mythical,462,65,35,42.91
+988,Grenade Launcher,Gold,Common,158,62,122,2.39
+989,Axe,Steel,Mythical,227,41,32,23.2
+990,Blowgun,Magnesium Alloy,Legendary,454,1,243,44.82
+991,Shotgun,Mythril,Common,174,3,80,12.42
+992,Staff,Carbon Fiber,Mythical,17,38,224,45.5
+993,Axe,Mythril,Uncommon,75,66,218,0.85
+994,Sniper Rifle,Reinforced Concrete,Uncommon,283,51,145,48.01
+995,Crossbow,Iron,Epic,116,82,92,26.82
+996,Bow,Adamantium,Rare,73,25,53,5.55
+997,Rocket Launcher,Wood,Epic,147,48,67,4.15
+998,Spear,Steel,Divine,244,48,33,27.23
+999,Sling,Iron,Uncommon,18,24,6,45.69
+1000,Shotgun,Magnesium Alloy,Legendary,237,80,17,27.54
