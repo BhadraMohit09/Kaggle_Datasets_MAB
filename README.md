@@ -1,6 +1,6 @@
 ## Kaggle Datasets
 
-This project makes use of datasets available on **Kaggle** to enhance the functionality and insight. These datasets are sourced from Kaggle's vast collection of data to provide valuable context, enhance product listings, and offer analysis opportunities...!
+This project makes use of datasets available on **Kaggle** to enhance the functionality and insight. These datasets are sourced from Kaggle's vast collection of data to provide valuable context, enhance product listings, and offer analysis opportunities!!
 
 ---
 
