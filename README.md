@@ -10,9 +10,10 @@ To use these datasets in your project:
 2. **Integrate them into your project** by uploading the files to your local environment or cloud storage solution (e.g., AWS, Google Cloud)!
 3. Ensure you follow Kaggle’s terms of use and provide appropriate attribution when using these datasets!
 
-## Contribute
+> [!TIP]
+>#### Contribute
 
-If you'd like to support or contribute to the project, you can donate via the following link:
+> If you'd like to support or contribute to the project, you can donate via the following link:
 
-[![Contribute](https://img.shields.io/badge/Contribute-Donate-purple)](https://razorpay.me/@mohitbhadra)
+> [![Contribute](https://img.shields.io/badge/Contribute-Donate-purple)](https://razorpay.me/@mohitbhadra)
 
