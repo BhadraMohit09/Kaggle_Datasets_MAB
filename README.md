@@ -14,5 +14,5 @@ To use these datasets in your project:
 
 If you'd like to support or contribute to the project, you can donate via the following link:
 
-[![Contribute](https://img.shields.io/badge/Contribute-Donate-red)](https://razorpay.me/@mohitbhadra)
+[![Contribute](https://img.shields.io/badge/Contribute-Donate-BLACK)](https://razorpay.me/@mohitbhadra)
 
