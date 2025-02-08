@@ -1,6 +1,6 @@
 ![Wave Animation](https://capsule-render.vercel.app/api?type=waving&color=9823f5&height=150&section=header)
 
-> #### Kaggle Datasets 💫
+> #### Kaggle Datasets 💫💤
 
 This project makes use of datasets available on **Kaggle** to enhance the functionality and insight. These datasets are sourced from Kaggle's vast collection of data to provide valuable context, enhance product listings, and offer analysis opportunities!!
 
