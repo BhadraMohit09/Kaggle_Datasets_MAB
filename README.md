@@ -13,7 +13,7 @@ To use these datasets in your project:
 3. Ensure you follow Kaggle’s terms of use and provide appropriate attribution when using these datasets!
 
 > [!TIP]
->#### Contribute
+> #### Contribute
 > If you'd like to support or contribute to the project, you can donate via the following link:
 > <br>
 > <br>
