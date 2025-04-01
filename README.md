@@ -5,7 +5,7 @@
 This project makes use of datasets available on **Kaggle** to enhance the functionality and insight. These datasets are sourced from Kaggle's vast collection of data to provide valuable context, enhance product listings, and offer analysis opportunities..!
 
 ---
-> ####Patch Update
+> #### Patch Update
 > Accessing and Using the Datasets✓
 To use these datasets in your project:
 1. **Visit the Kaggle website** and download the datasets from the provided links...
