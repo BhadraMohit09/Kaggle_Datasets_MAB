@@ -14,7 +14,7 @@ To use these datasets in your project:
 
 > [!TIP]
 > #### Contribute:
-> If you'd like to support or contribute to the project, you can donate via the following link😉
+> If you'd like to support or contribute to the project, you can donate via the following link😉🍻🍻
 > <br>
 > <br>
 
